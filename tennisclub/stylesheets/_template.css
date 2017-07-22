@@ -1,0 +1,150 @@
+/*----------------*/
+/* LAYOUT Section */
+/*----------------*/
+
+html {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-image: url("../images/grass.jpg");
+}
+
+body{   
+  text-align:center; /*For IE6 Shenanigans*/
+/*  background-color: #f8edb0;*/
+}   
+  
+#wrap{
+  background-color: #f8edb0;
+  width:900px;   
+  margin:0 auto;   
+  text-align:left;   
+}  
+
+#banner {
+  background-color: #f8edb0;
+  height: 108px;
+  width: 900px;
+}
+
+#main {
+  background-color: #f8edb0;
+  padding: 10px;
+  width: 660px;
+  float: right;
+}
+
+#left_menu {
+  background-color: #f8edb0;
+  padding: 10px;
+  width: 200px;
+  float: left;
+}
+
+#footer {
+  clear: both;
+  background-image: url("../images/footer.png");
+  height: 100px;
+  width: 885px;
+  padding-left: 15px;
+  color: #9C0820;
+  font-size: 12px; 
+}
+
+/*----------------------*/
+/* PRESENTATION Section */
+/*----------------------*/
+
+body {
+  font-family: Tahoma, Helvetica, sans-serif;
+  FONT-SIZE: 14px; COLOR: #525252;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal
+}
+
+/* TABLES */
+
+table {
+  margin-left: 20px;
+  margin-right: 20px;
+  border: thin solid #397429;
+  caption-side: bottom;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.tableheader {
+  background-color: #397429;
+  font-weight: bold;
+  padding: 5px;
+  color: #9C0820;
+}
+
+.rowheader{
+  font-weight: bold;
+  padding: 5px;
+  color: #9C0820;
+}
+
+td {
+  border: thin solid #397429;
+  padding: 5px;
+}
+
+caption {
+  font-style: italic;
+  padding-top: 8px;
+}
+
+/* HEADINGS */
+
+H1 {
+  FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #397429;
+}
+H2 {
+  FONT-WEIGHT: bold; FONT-SIZE: 22px; COLOR: #397429;
+}
+H3 {
+  FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #397429;
+}
+H4 {
+  FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #397429;
+}
+H5 {
+  FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #397429;
+}
+H6 {
+  FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #397429;
+}
+
+/* HREF Links */
+
+A:link {
+  FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:visited {
+  FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:hover {
+  FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #525252; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+
+/* CLASS="menu" */
+
+H1.menu{
+  FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #9C0820; FONT-FAMILY: Tahoma, Helvetica, sans-serif; text-decoration: underline
+}
+A.menu:link {
+  FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #397429; FONT-STYLE: normal; FONT-FAMILY: Helvetica, geneva, sans-serif; TEXT-DECORATION: none
+}
+A.menu:visited {
+  FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #397429; FONT-FAMILY: Tahoma, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.menu:hover {
+  FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #628B61; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+
+#h1_image {
+  
+  float: left; border: 0px; margin: 0px, 30px, 0px, 0px; width: 50px; height: 50px; vertical-align:text-bottom;
+}
