@@ -7,6 +7,7 @@ keywords: news, events, cafe
 
 [TCC Minutes of 5th February 2018](pdfs/2018-02-05-TCC-Minutes.pdf)
 
+---
 [TCC Minutes of 4th December 2017](pdfs/2017-12-04-TCC-Minutes.pdf)
 
 ---
@@ -123,7 +124,7 @@ The travel offer is to adults with children and young persons to travel for 20pe
 ---
 A great wet weather alternative – Join the Library
 
-<strong>Joining the library is absolutely free, and kids can join at any age, even from birth!</strong>\
+<strong>Joining the library is absolutely free, and kids can join at any age, even from birth!</strong>
 
 We have lots ON for kids at your local library, including:
 <ul>
@@ -171,7 +172,7 @@ This is a great place to advertise upcoming community events. If you know of a f
 * [Things To Do Nearby](things-to-do-nearby)
 * [Accommodation](accommodation)
 * [Food &amp; Drink](food-and-drink)
-* [Childminding](childminding">)
+* [Childminding](childminding)
 * [Youth Groups In Tayport](youth-groups-in-tayport)
 * [Businesses](businesses)
 * [Halls For Hire](halls)
