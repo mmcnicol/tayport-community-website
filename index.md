@@ -150,63 +150,55 @@ This is a great place to advertise upcoming community events. If you know of a f
 
 ## Site Navigation
 
-<a href="#" title="Home Page">Home</a>\
-<a href="about" title="About">About</a>\
-<a href="community-council">Community Council</a>\
-<!--<a href="local-history.html">Local History</a>\-->
-<!-- <a href="photos.html">Photos</a>\ -->
-<a href="photo">Photos</a>\
-
-<!--
-    slideshow: <a href="http://www.tayport.org.uk/slideshow/historic">Historic</a> |  
-    <a href="http://www.tayport.org.uk/slideshow/recent">Recent</a>\
--->
-<a href="tourism">Tourism</a>\
-<a href="things-to-do-nearby">Things To Do Nearby</a>\
-<a href="accommodation">Accommodation</a>\
-<a href="food-and-drink">Food &amp; Drink</a>\
-<a href="childminding">Childminding</a>\
-<a href="youth-groups-in-tayport">Youth Groups In Tayport</a>\
-<a href="businesses">Businesses</a>\
-<a href="halls">Halls For Hire</a>\
-<a href="fun-activities/">Fun Activities</a>\
-
+* [About](about)
+* [Community Council](community-council)
+* [Photos](photo)
+* [Tourism](tourism)
+* [Things To Do Nearby](things-to-do-nearby)
+* [Accommodation](accommodation)
+* [Food &amp; Drink](food-and-drink)
+* [Childminding](childminding">)
+* [Youth Groups In Tayport](youth-groups-in-tayport)
+* [Businesses](businesses)
+* [Halls For Hire](halls)
+* [Fun Activities](fun-activities/)
 
 
 ## Related Links
 
-<a href="https://www.facebook.com/TayportBeaverCubScouts?ref=hl" title="Tayport Scout Group">37th Fife (1st Tayport) Scout Group</a>\
-<a href="http://www.tayportauldkirk.org.uk/" title="Auld Kirk Charitable Trust website" target="_blank">Auld Kirk Charitable Trust</a>\
-<a href="http://www.tayportlinkscaravanpark.co.uk/" title="Caravan Park website" target="_blank">Caravan Park</a>\
-<a href="http://www.dolphintayport.org.uk/">Dolphin Youth &amp; Community Centre</a>\
-<a href="https://www.facebook.com/HarbourCafeTayport" title="Harbour Cafe website (facebook page)" target="_blank">Harbour Cafe</a>\
-<a href="https://en-gb.facebook.com/TayportInstrumentalBand/" title=" Tayport Instrumental Band website" target="_blank">Instrumental Band</a>\
-<a href="http://www.maryrobsonschoolofballet.co.uk" title="Ballet and jazz classes in Tayport.">Mary Robson School of Ballet</a>\
-<a href="http://www.scotscraiggolfclub.com/" title="Scotscraig Golf Club website" target="_blank">Scotscraig Golf Club</a>\
-<a href="http://www.stmargarettayport.org/" title="St Margaret of Scotland Episcopal Church website" target="_blank">St Margaret of Scotland Episcopal Church</a>\
-<a href="https://www.facebook.com/pages/Tayport-Amateur-Dramatic-and-Musical-Society/70994901938?sk=timeline&#038;ref=page_internal" title="TAMS (Tayport Amateur Dramatic and Musical Society)">TAMS (Tayport Amateur Dramatic and Musical Society)</a>\
-<a href="http://tayportgarden.org/" title="Growing more food locally" target="_blank">Tayport Community Garden</a>\
-<a href="http://tayportct.org.uk/" title="Tayport Community Trust website" target="_blank">Tayport Community Trust</a>\
-<a href="http://www.tayportfc.org/" title="Tayport Football Club website" target="_blank">Tayport Football Club</a>\
-<a href="http://www.tayportparishchurch.co.uk/" title="Tayport Parish Church website" target="_blank">Tayport Parish Church</a>\
-<a href="https://www.facebook.com/TayportPlaygroupParentCommittee" title="Tayport Playgroup Parent Committee (facebook page)" target="_blank">Tayport Playgroup Parent Committee</a>\
-<a href="http://www.tayportprimaryparentcouncil.co.uk" title="Tayport Primary Parent Council ">Tayport Primary Parent Council</a>\
-<a href="https://www.facebook.com/pages/Tayport-Top-Park-Group/1467318490196740?sk=info&#038;tab=page_info" title="Tayport Top Park Group to improve the facilities and build new skate park">Tayport Top Park Group</a>\
-<a href="http://www.tayport.org.uk/tennisclub/" title="Tennis Club website" target="_blank">Tennis Club</a>\
-<a href="http://scotland.forestry.gov.uk/visit/tentsmuir/#events" title="Tentsmuir Forest website" target="_blank">Tentsmuir Forest</a>\
-<a href="https://www.writetothem.com/" title="Write to your politicians, national or local" target="_blank">Write To Them</a>\
+<a href="https://www.facebook.com/TayportBeaverCubScouts?ref=hl" title="Tayport Scout Group">37th Fife (1st Tayport) Scout Group</a>
+<a href="http://www.tayportauldkirk.org.uk/" title="Auld Kirk Charitable Trust website" target="_blank">Auld Kirk Charitable Trust</a>
+<a href="http://www.tayportlinkscaravanpark.co.uk/" title="Caravan Park website" target="_blank">Caravan Park</a>
+<a href="http://www.dolphintayport.org.uk/">Dolphin Youth &amp; Community Centre</a>
+<a href="https://www.facebook.com/HarbourCafeTayport" title="Harbour Cafe website (facebook page)" target="_blank">Harbour Cafe</a>
+<a href="https://en-gb.facebook.com/TayportInstrumentalBand/" title=" Tayport Instrumental Band website" target="_blank">Instrumental Band</a>
+<a href="http://www.maryrobsonschoolofballet.co.uk" title="Ballet and jazz classes in Tayport.">Mary Robson School of Ballet</a>
+<a href="http://www.scotscraiggolfclub.com/" title="Scotscraig Golf Club website" target="_blank">Scotscraig Golf Club</a>
+<a href="http://www.stmargarettayport.org/" title="St Margaret of Scotland Episcopal Church website" target="_blank">St Margaret of Scotland Episcopal Church</a>
+<a href="https://www.facebook.com/pages/Tayport-Amateur-Dramatic-and-Musical-Society/70994901938?sk=timeline&#038;ref=page_internal" title="TAMS (Tayport Amateur Dramatic and Musical Society)">TAMS (Tayport Amateur Dramatic and Musical Society)</a>
+<a href="http://tayportgarden.org/" title="Growing more food locally" target="_blank">Tayport Community Garden</a>
+<a href="http://tayportct.org.uk/" title="Tayport Community Trust website" target="_blank">Tayport Community Trust</a>
+<a href="http://www.tayportfc.org/" title="Tayport Football Club website" target="_blank">Tayport Football Club</a>
+<a href="http://www.tayportparishchurch.co.uk/" title="Tayport Parish Church website" target="_blank">Tayport Parish Church</a>
+<a href="https://www.facebook.com/TayportPlaygroupParentCommittee" title="Tayport Playgroup Parent Committee (facebook page)" target="_blank">Tayport Playgroup Parent Committee</a>
+<a href="http://www.tayportprimaryparentcouncil.co.uk" title="Tayport Primary Parent Council ">Tayport Primary Parent Council</a>
+<a href="https://www.facebook.com/pages/Tayport-Top-Park-Group/1467318490196740?sk=info&#038;tab=page_info" title="Tayport Top Park Group to improve the facilities and build new skate park">Tayport Top Park Group</a>
+<a href="http://www.tayport.org.uk/tennisclub/" title="Tennis Club website" target="_blank">Tennis Club</a>
+<a href="http://scotland.forestry.gov.uk/visit/tentsmuir/#events" title="Tentsmuir Forest website" target="_blank">Tentsmuir Forest</a>
+<a href="https://www.writetothem.com/" title="Write to your politicians, national or local" target="_blank">Write To Them</a>
 
 
 ## Services
 
-<a href="https://www.cabfife.org.uk/">Citizen’s Advice</a>\
-<a href="http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=D00C4025-CC49-4078-8162067BC8024ACA" title="Local Children&#8217;s Nursery" target="_blank">Ferryport Nursery School</a>\
-<a href="https://www.fifedirect.org.uk/topics/index.cfm?fuseaction=page.display&p2sid=22E6562F-FFB3-06A7-C3316391FE8B0ABC&themeid=2B892409-722D-4F61-B1CC-7DE81CC06A90">Job Club</a>\
-<a href="https://www.nhsinform.scot/national-service-directory/dental-services/3013-1" title="Tayport dentist" target="_blank">Old Bank Dental Surgery</a>\
-<a href="http://www.tayportharbour.org.uk/" title="Information about Tayport Harbour">Tayport Harbour</a>\
-Post Office\
-<a href="http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=CB239AAE-42F1-4835-BE2030CFB8E2D437" title="Local Primary School" target="_blank">Tayport Primary School</a>\
-<a href="http://www.tayviewmp.org.uk/" title="local GP surgery" target="_blank">Tayview Medical Practice</a>\
+* [Citizen’s Advice](https://www.cabfife.org.uk)
+* [Ferryport Nursery School](http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=D00C4025-CC49-4078-8162067BC8024ACA)
+* [Job Club](https://www.fifedirect.org.uk/topics/index.cfm?fuseaction=page.display&p2sid=22E6562F-FFB3-06A7-C3316391FE8B0ABC&themeid=2B892409-722D-4F61-B1CC-7DE81CC06A90)
+* [Old Bank Dental Surgery](https://www.nhsinform.scot/national-service-directory/dental-services/3013-1)
+* [Tayport Harbour](http://www.tayportharbour.org.uk)
+* Post Office
+* [Tayport Primary School](http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=CB239AAE-42F1-4835-BE2030CFB8E2D437)
+* [Tayview Medical Practice](http://www.tayviewmp.org.uk)
+
 
 <!--
 Click on the map below to link to multimap.co.uk where you can use its interactive features to zoom in and out.
