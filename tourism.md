@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Tourism - Tayport Community
-keywords: tourism, mountain biking
+keywords: tourism, costal path, mountain biking
 ---
 ## Tourism
 
-Here is a promotional video which includes footage of mountain biking in [Tentsmuir Forest](http://www.tentsmuir.org/").</p>
+Here is a promotional video which includes footage of mountain biking in [Tentsmuir Forest](http://www.tentsmuir.org/").
 
 <iframe src="//player.vimeo.com/video/111421346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
