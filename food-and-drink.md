@@ -14,7 +14,7 @@ website: [Bellrock Tavern](<a href="https://bellrocktavern.wordpress.com)
 phone: (01382) 552388  
 &#8220;The Bell Rock Tavern&#8221; is named after the Bell Rock Lighthouse. First lit in 1811 &amp; built by Scottish Engineer Robert Stevenson.  
 The rock on which it is built is called &#8220;The Bell Rock&#8221; because of a 14th century attempt by the Abbot from Arbroath install a warning bell on it.  
-The rock was the scene of many shipwrecks as it lies just below the surface of the sea for all but a few hours at low tide.\
+The rock was the scene of many shipwrecks as it lies just below the surface of the sea for all but a few hours at low tide.  
 According to legend, the bell lasted only one year before it was removed by a Dutch pirate. A more plausible explanation has it that it simply washed away.  
 &#8220;The Bell Rock Tavern&#8221; or simply &#8220;The Bell&#8221; has stood on the same spot, on Dalgleish Street, in the Heart of the Community since 1887. A Tayport directory of the time lists it as a &#8220;Spirit Dealer&#8221; (pre naming of the establishment to Bell Rock)
 
