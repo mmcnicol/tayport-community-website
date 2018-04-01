@@ -11,11 +11,11 @@ If there is something specific you'd like to raise please contact the Secretary 
 
 Correspondence should be addressed to:
 
-The Secretary
-Tayport Community Council
-c/o 65 Ogilvy Street
-Tayport
-Fife
+The Secretary,
+Tayport Community Council,
+c/o 65 Ogilvy Street,
+Tayport,
+Fife,
 DD6 9NG
 
 ### Meeting Minutes
