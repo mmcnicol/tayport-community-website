@@ -5,6 +5,14 @@ keywords: news, events, cafe
 ---
 ## Local News
 
+Free Family Learning Roadshows - are you looking for fun family activities during the Easter Holidays? [learn more](http://tayport.org.uk/media/201804-family-learning.jpg)  
+![ ](http://tayport.org.uk/media/201804-family-learning-medium.jpg " ")
+
+---
+Spring Tea in Church Hall - Saturday 14th April. [learn more](http://tayport.org.uk/media/201804-spring-tea.jpg)  
+![ ](http://tayport.org.uk/media/201804-spring-tea-medium.jpg " ")
+
+---
 [TCC Minutes of 5th February 2018](pdfs/2018-02-05-TCC-Minutes.pdf)
 
 ---
