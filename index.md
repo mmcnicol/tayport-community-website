@@ -3,16 +3,28 @@ layout: default
 title: Home - Tayport Community
 keywords: news, events, cafe
 ---
-## Local News
+<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a>
 
-Free Family Learning Roadshows - are you looking for fun family activities during the Easter Holidays? [learn more](http://tayport.org.uk/media/201804-family-learning.jpg)  
-![ ](http://tayport.org.uk/media/201804-family-learning-medium.jpg " ")
+## Upcoming Events
+
+T.A.D.A.M.S coddee morning - Saturday 7th April [learn more](http://tayport.org.uk/media/201804-coffee-morning.jpg)  
+![ ](http://tayport.org.uk/media/201804-coffee-morning-medium.jpg " ")
 
 ---
 Spring Tea in Church Hall - Saturday 14th April. [learn more](http://tayport.org.uk/media/201804-spring-tea.jpg)  
 ![ ](http://tayport.org.uk/media/201804-spring-tea-medium.jpg " ")
 
 ---
+Free Family Learning Roadshows - are you looking for fun family activities during the Easter Holidays? [learn more](http://tayport.org.uk/media/201804-family-learning.jpg)  
+![ ](http://tayport.org.uk/media/201804-family-learning-medium.jpg " ")
+
+---
+This is a great place to advertise upcoming community events. If you know of a future event that you would like to see listed here please get in touch.
+
+
+## Local News
+
+
 [TCC Minutes of 5th February 2018](pdfs/2018-02-05-TCC-Minutes.pdf)
 
 ---
@@ -162,16 +174,7 @@ Tentsmuir National Nature Reserve Newsletter
 <a href="pdfs/20170403_TCC_Minutes.pdf">TCC Minutes for 3rd April 2017</a>
 
 
-
-
-
-
-## Upcoming Events
-
-This is a great place to advertise upcoming community events. If you know of a future event that you would like to see listed here please get in touch.
-
-
-## Site Navigation
+<h2 id="site-navigation">Site Navigation</h2>
 
 * [About](about)
 * [Community Council](community-council)
