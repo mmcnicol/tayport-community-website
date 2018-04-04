@@ -3,7 +3,7 @@ layout: default
 title: Home - Tayport Community
 keywords: news, events, cafe
 ---
-<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a>
+<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a> | <a href="http://tayport.org.uk/#local-news">jump to Local News</a>
 
 ## Upcoming Events
 
@@ -19,12 +19,18 @@ Free Family Learning Roadshows - are you looking for fun family activities durin
 ![ ](http://tayport.org.uk/media/201804-family-learning-medium.jpg " ")
 
 ---
+Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
+![ ](http://tayport.org.uk/media/201806_JAM_G_1-medium.jpg " ")
+
+---
 This is a great place to advertise upcoming community events. If you know of a future event that you would like to see listed here please get in touch.
 
 
 ## Local News
 
+Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
 
+---
 [TCC Minutes of 5th February 2018](pdfs/2018-02-05-TCC-Minutes.pdf)
 
 ---
@@ -174,7 +180,7 @@ Tentsmuir National Nature Reserve Newsletter
 <a href="pdfs/20170403_TCC_Minutes.pdf">TCC Minutes for 3rd April 2017</a>
 
 
-<h2 id="site-navigation">Site Navigation</h2>
+## Site Navigation
 
 * [About](about)
 * [Community Council](community-council)
