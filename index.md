@@ -3,7 +3,7 @@ layout: default
 title: Home - Tayport Community
 keywords: news, events, cafe
 ---
-<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a>
+<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a>  
 <a href="http://tayport.org.uk/#local-news">jump to Local News</a>
 
 
