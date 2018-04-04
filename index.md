@@ -3,7 +3,9 @@ layout: default
 title: Home - Tayport Community
 keywords: news, events, cafe
 ---
-<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a> | <a href="http://tayport.org.uk/#local-news">jump to Local News</a>
+<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a>
+<a href="http://tayport.org.uk/#local-news">jump to Local News</a>
+
 
 ## Upcoming Events
 
@@ -28,6 +30,9 @@ This is a great place to advertise upcoming community events. If you know of a f
 
 ## Local News
 
+[TCC Minutes of 5th March 2018](http://tayport.org.uk/pdfs/2018-03-05-TCC-Minutes.pdf)
+
+---
 Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
 
 ---
