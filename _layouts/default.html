@@ -18,11 +18,67 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
 }
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+.content {
+  grid-area: content;
+}
+
+.header {
+  grid-area: header;
+}
+
+.footer {
+  grid-area: footer;
+}
+
+.wrapper {
+  //background-color: #fff;
+  //color: #444;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 1em;
+  grid-template-areas:
+   "header"
+   "content"
+   "sidebar"
+   "footer"
+}
+
+@media only screen and (min-width: 600px)   {
+  .wrapper {
+    grid-gap: 20px;
+    grid-template-columns: auto 300px;
+    grid-template-areas:
+      "header  header"
+      "content sidebar"
+      "footer  footer";
+      max-width: 600px;
+  }
+}
+
+.box {
+  //background-color: #444;
+  //color: #fff;
+  //border-radius: 5px;
+  padding: 10px;
+  //font-size: 150%; 
+}
+
 </style>
 
   </head>
   <body>
 
+
+<div class="wrapper">
+
+  <div class="box header">
     <h1>Tayport Community Website</h1>
 
       <div>
@@ -33,9 +89,68 @@ body {
         <img src="http://tayport.org.uk/media/thumbs/244.jpg" alt="">
         <img src="http://tayport.org.uk/media/thumbs/tentsmuir_93A.jpg" alt="">
       </div>
+  </div>
 
+  <div class="box content">
     {{ content }}
+  </div>
 
+  <div class="box sidebar">
+
+## Site Navigation
+
+* [About](http://www.tayport.org.uk/about)
+* [Community Council](http://www.tayport.org.uk/community-council)
+* [Photos](http://www.tayport.org.uk/photo)
+* [Tourism](http://www.tayport.org.uk/tourism)
+* [Things To Do Nearby](http://www.tayport.org.uk/things-to-do-nearby)
+* [Accommodation](http://www.tayport.org.uk/accommodation)
+* [Food &amp; Drink](http://www.tayport.org.uk/food-and-drink)
+* [Childminding](http://www.tayport.org.uk/childminding)
+* [Youth Groups In Tayport](http://www.tayport.org.uk/youth-groups-in-tayport)
+* [Businesses](http://www.tayport.org.uk/businesses)
+* [Halls For Hire](http://www.tayport.org.uk/halls)
+* [Fun Activities](http://www.tayport.org.uk/fun-activities/)
+
+
+## Related Links
+
+* [37th Fife (1st Tayport) Scout Group](https://www.facebook.com/TayportBeaverCubScouts?ref=hl)
+* [Auld Kirk Charitable Trust](http://www.tayportauldkirk.org.uk)
+* [Caravan Park](http://www.tayportlinkscaravanpark.co.uk)
+* [Dolphin Youth &amp; Community Centre](http://www.dolphintayport.org.uk)
+* [Harbour Cafe](https://www.facebook.com/HarbourCafeTayport)
+* [Instrumental Band](https://en-gb.facebook.com/TayportInstrumentalBand/)
+* [Mary Robson School of Ballet](http://www.maryrobsonschoolofballet.co.uk)
+* [Scotscraig Golf Club](http://www.scotscraiggolfclub.com)
+* [St Margaret of Scotland Episcopal Church](http://www.stmargarettayport.org)
+* [TAMS - Tayport Amateur Dramatic and Musical Society](https://www.facebook.com/pages/Tayport-Amateur-Dramatic-and-Musical-Society/70994901938?sk=timeline&#038;ref=page_internal)
+* [Tayport Community Garden](http://tayportgarden.org)
+* [Tayport Community Trust](http://tayportct.org.uk)
+* [Tayport Football Club](http://www.tayportfc.org)
+* [Tayport Parish Church](http://www.tayportparishchurch.co.uk)
+* [Tayport Playgroup Parent Committee](https://www.facebook.com/TayportPlaygroupParentCommittee)
+* [Tayport Primary Parent Council](http://www.tayportprimaryparentcouncil.co.uk")
+* [Tayport Top Park Group](https://www.facebook.com/pages/Tayport-Top-Park-Group/1467318490196740?sk=info&#038;tab=page_info)
+* [Tennis Club](http://www.tayport.org.uk/tennisclub/)
+* [Tentsmuir Forest](http://scotland.forestry.gov.uk/visit/tentsmuir/#events)
+* [Write To Them](https://www.writetothem.com)
+
+
+## Services
+
+* [Citizen’s Advice](https://www.cabfife.org.uk)
+* [Ferryport Nursery School](http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=D00C4025-CC49-4078-8162067BC8024ACA)
+* [Job Club](https://www.fifedirect.org.uk/topics/index.cfm?fuseaction=page.display&p2sid=22E6562F-FFB3-06A7-C3316391FE8B0ABC&themeid=2B892409-722D-4F61-B1CC-7DE81CC06A90)
+* [Old Bank Dental Surgery](https://www.nhsinform.scot/national-service-directory/dental-services/3013-1)
+* [Tayport Harbour](http://www.tayportharbour.org.uk)
+* Post Office
+* [Tayport Primary School](http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=CB239AAE-42F1-4835-BE2030CFB8E2D437)
+* [Tayview Medical Practice](http://www.tayviewmp.org.uk)
+
+  </div>
+
+  <div class="box footer">
 
     <br/>
     <br/>
@@ -46,6 +161,9 @@ body {
     <p><a href="http://tayport.org.uk">Tayport Community Website</a></p>
     <p>Supported by Tayport Community Council [April 2003 – present]<br /></p>
 
+  </div>
+
+</div>
 
 <!-- google analytics -->
 <script>

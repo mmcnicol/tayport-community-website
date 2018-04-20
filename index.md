@@ -3,7 +3,7 @@ layout: default
 title: Home - Tayport Community
 keywords: news, events, cafe
 ---
-<a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a>  
+<!-- <a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a> -->
 <a href="http://tayport.org.uk/#local-news">jump to Local News</a>
 
 
@@ -184,57 +184,6 @@ Tentsmuir National Nature Reserve Newsletter
 ---
 <a href="pdfs/20170403_TCC_Minutes.pdf">TCC Minutes for 3rd April 2017</a>
 
-
-## Site Navigation
-
-* [About](about)
-* [Community Council](community-council)
-* [Photos](photo)
-* [Tourism](tourism)
-* [Things To Do Nearby](things-to-do-nearby)
-* [Accommodation](accommodation)
-* [Food &amp; Drink](food-and-drink)
-* [Childminding](childminding)
-* [Youth Groups In Tayport](youth-groups-in-tayport)
-* [Businesses](businesses)
-* [Halls For Hire](halls)
-* [Fun Activities](fun-activities/)
-
-
-## Related Links
-
-* [37th Fife (1st Tayport) Scout Group](https://www.facebook.com/TayportBeaverCubScouts?ref=hl)
-* [Auld Kirk Charitable Trust](http://www.tayportauldkirk.org.uk)
-* [Caravan Park](http://www.tayportlinkscaravanpark.co.uk)
-* [Dolphin Youth &amp; Community Centre](http://www.dolphintayport.org.uk)
-* [Harbour Cafe](https://www.facebook.com/HarbourCafeTayport)
-* [Instrumental Band](https://en-gb.facebook.com/TayportInstrumentalBand/)
-* [Mary Robson School of Ballet](http://www.maryrobsonschoolofballet.co.uk)
-* [Scotscraig Golf Club](http://www.scotscraiggolfclub.com)
-* [St Margaret of Scotland Episcopal Church](http://www.stmargarettayport.org)
-* [TAMS - Tayport Amateur Dramatic and Musical Society](https://www.facebook.com/pages/Tayport-Amateur-Dramatic-and-Musical-Society/70994901938?sk=timeline&#038;ref=page_internal)
-* [Tayport Community Garden](http://tayportgarden.org)
-* [Tayport Community Trust](http://tayportct.org.uk)
-* [Tayport Football Club](http://www.tayportfc.org)
-* [Tayport Parish Church]("http://www.tayportparishchurch.co.uk)
-* [Tayport Playgroup Parent Committee](https://www.facebook.com/TayportPlaygroupParentCommittee)
-* [Tayport Primary Parent Council](http://www.tayportprimaryparentcouncil.co.uk")
-* [Tayport Top Park Group](https://www.facebook.com/pages/Tayport-Top-Park-Group/1467318490196740?sk=info&#038;tab=page_info)
-* [Tennis Club](http://www.tayport.org.uk/tennisclub/)
-* [Tentsmuir Forest](http://scotland.forestry.gov.uk/visit/tentsmuir/#events)
-* [Write To Them](https://www.writetothem.com)
-
-
-## Services
-
-* [Citizen’s Advice](https://www.cabfife.org.uk)
-* [Ferryport Nursery School](http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=D00C4025-CC49-4078-8162067BC8024ACA)
-* [Job Club](https://www.fifedirect.org.uk/topics/index.cfm?fuseaction=page.display&p2sid=22E6562F-FFB3-06A7-C3316391FE8B0ABC&themeid=2B892409-722D-4F61-B1CC-7DE81CC06A90)
-* [Old Bank Dental Surgery](https://www.nhsinform.scot/national-service-directory/dental-services/3013-1)
-* [Tayport Harbour](http://www.tayportharbour.org.uk)
-* Post Office
-* [Tayport Primary School](http://www.fife.gov.uk/atoz/index.cfm?fuseaction=facility.display&#038;facid=CB239AAE-42F1-4835-BE2030CFB8E2D437)
-* [Tayview Medical Practice](http://www.tayviewmp.org.uk)
 
 
 <!--
