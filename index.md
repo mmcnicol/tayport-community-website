@@ -9,34 +9,15 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-T.A.D.A.M.S coddee morning - Saturday 7th April [learn more](http://tayport.org.uk/media/201804-coffee-morning.jpg)  
-![ ](http://tayport.org.uk/media/201804-coffee-morning-medium.jpg " ")
-
----
-Spring Tea in Church Hall - Saturday 14th April. [learn more](http://tayport.org.uk/media/201804-spring-tea.jpg)  
-![ ](http://tayport.org.uk/media/201804-spring-tea-medium.jpg " ")
-
----
-Free Family Learning Roadshows - are you looking for fun family activities during the Easter Holidays? [learn more](http://tayport.org.uk/media/201804-family-learning.jpg)  
-![ ](http://tayport.org.uk/media/201804-family-learning-medium.jpg " ")
-
----
-Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
-![ ](http://tayport.org.uk/media/201806_JAM_G_1-medium.jpg " ")
-
----
-This is a great place to advertise upcoming community events. If you know of a future event that you would like to see listed here please get in touch.
-
-
-## Local News
-
 Dundee United Community Trust are in the process of recruiting men and women to participate in their Football Fans in Training course which starts on the 30th of April for men and the 2nd May for women. FFIT is a free 12-week, healthy eating and exercise course designed to help our participants lose weight through small changes to their current exercise and eating habits. Each week participants take part in a 1 ½ hour long session at Tannadice Park that features both theory on healthy living and a practical physical activity session. The course is aimed at overweight adults aged 35 - 65 years old.
 
 ![ ](http://tayport.org.uk/media/2018-Mens-FFIT-Flyer-819.png " ")
 
 ![ ](http://tayport.org.uk/media/2018-Womens-FFIT-Flyer-822.png " ")
 
----
+
+## Local News
+
 [TCC Minutes of 5th March 2018](http://tayport.org.uk/pdfs/2018-03-05-TCC-Minutes.pdf)
 
 ---
