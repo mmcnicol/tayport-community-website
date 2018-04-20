@@ -15,13 +15,13 @@ Dundee United Community Trust are in the process of recruiting men and women to 
 
 ![ ](http://tayport.org.uk/media/2018-Womens-FFIT-Flyer-822.png " ")
 
+---
+Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
+
 
 ## Local News
 
 [TCC Minutes of 5th March 2018](http://tayport.org.uk/pdfs/2018-03-05-TCC-Minutes.pdf)
-
----
-Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
 
 ---
 [TCC Minutes of 5th February 2018](pdfs/2018-02-05-TCC-Minutes.pdf)
