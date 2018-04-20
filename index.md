@@ -193,7 +193,7 @@ Click on the map below to link to multimap.co.uk where you can use its interacti
 <img src="pics/area_map2.gif" border=1 alt="click to enlarge" height=164 width=259/></a>
 -->
 
-![ ](http://tayport.org.uk/media/218.jpg " ")
+
 
 ![ ](http://tayport.org.uk/media/244_medium.jpg " ")
 
