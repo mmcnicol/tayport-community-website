@@ -21,6 +21,9 @@ Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/
 
 ## Local News
 
+[TCC Minutes of 2nd April 2018](http://tayport.org.uk/pdfs/2018-04-02-TCC-Minutes.pdf)
+
+---
 [TCC Minutes of 5th March 2018](http://tayport.org.uk/pdfs/2018-03-05-TCC-Minutes.pdf)
 
 ---
