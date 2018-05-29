@@ -14,6 +14,8 @@ Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/
 
 ## Local News
 
+![ ](http://tayport.org.uk/media/2018-gala-stallholder-poster.jpg " ")
+
 ![ ](http://tayport.org.uk/media/2018-gala-1.jpg " ")
 
 ---
