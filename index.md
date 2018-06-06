@@ -9,6 +9,9 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
+Tayport Community Trust - Friday 8th June ![ ](http://tayport.org.uk/media/2018-tct-egm.jpg " ")
+
+---
 Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
 
 
