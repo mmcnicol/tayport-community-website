@@ -17,6 +17,9 @@ Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/
 [TCC AGM Minutes of 7th May 2018](http://tayport.org.uk/pdfs/2018-05-07-TCC-AGM-Minutes.pdf)
 
 ---
+[Reserve Newsletter No.38 - June 2018](http://tayport.org.uk/pdfs/2018-06-Reserve-Newsletter-No-38.pdf)
+
+---
 ![ ](http://tayport.org.uk/media/2018-gala-stallholder-poster.jpg " ")
 
 ![ ](http://tayport.org.uk/media/2018-gala-1.jpg " ")
