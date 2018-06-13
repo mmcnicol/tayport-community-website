@@ -17,6 +17,12 @@ Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdf
 
 ## Local News
 
+Tayport, Various Streets - Temporary Traffic Restrictions
+[learn more - map#1](http://tayport.org.uk/pdfs/2018-Tayport-300618.pdf) 
+[learn more - map#2](http://tayport.org.uk/pdfs/2018-Temp-Stops-Location-Tayport-Closure.pdf) 
+![ ](http://tayport.org.uk/media/2018-Tayport-300618.png " ")
+
+---
 [TCC AGM Minutes of 7th May 2018](http://tayport.org.uk/pdfs/2018-05-07-TCC-AGM-Minutes.pdf)
 
 ---
