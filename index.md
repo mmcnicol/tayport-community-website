@@ -19,8 +19,8 @@ Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdf
 
 Tayport, Various Streets - Temporary Traffic Restrictions  
 From Saturday 30 June - Tuesday 14 August, several streets within Tayport will be closed [learn more](https://www.stagecoachbus.com/service-updates/serviceupdatesarticle?SituationId=ID-24/05/2018-15:58:09:483)  
-[map#1](http://tayport.org.uk/pdfs/2018-Tayport-300618.pdf)  
-[map#2](http://tayport.org.uk/pdfs/2018-Temp-Stops-Location-Tayport-Closure.pdf)  
+[map#1](http://tayport.org.uk/pdfs/2018-Tayport-300618.pdf) (PDF)  
+[map#2](http://tayport.org.uk/pdfs/2018-Temp-Stops-Location-Tayport-Closure.pdf) (PDF)  
 ![ ](http://tayport.org.uk/media/2018-Tayport-300618.png " ")
 
 ---
