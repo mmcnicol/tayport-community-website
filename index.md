@@ -9,9 +9,6 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-Memorial Football Match - Saturday 16th June [learn more](http://tayport.org.uk/media/201806_JAM_G_1.jpg)  
-
----
 Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdfs/2018-06-26-Dolphin-Centre-AGM.pdf) (PDF)  
 ![ ](http://tayport.org.uk/media/2018-06-26-Dolphin-Centre-AGM.png " ")
 
