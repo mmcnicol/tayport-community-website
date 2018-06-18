@@ -14,6 +14,15 @@ Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdf
 
 ## Local News
 
+**Cleaner required for immediate start**  
+Forgan Arts Centre, Cupar Road, Newport on Tay, DD6 8RA  
+Freelance experienced cleaner needed for 1.5 hours per day Monday-Friday.  
+Hours to be worked before 9.30am.  
+General cleaning duties including floors, surfaces, windows and sanitary areas.  
+£8.85 per hour. Paid monthly to invoice by Bacs.  
+To find out more contact Alana on 01382 542062 or info@forganartscentre.co.uk
+
+---
 Tayport, Various Streets - Temporary Traffic Restrictions  
 From Saturday 30 June - Tuesday 14 August, several streets within Tayport will be closed [learn more](https://www.stagecoachbus.com/service-updates/serviceupdatesarticle?SituationId=ID-24/05/2018-15:58:09:483)  
 [map#1](http://tayport.org.uk/pdfs/2018-Tayport-300618.pdf) (PDF)  
