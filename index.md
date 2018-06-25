@@ -12,6 +12,11 @@ keywords: news, events, cafe
 Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdfs/2018-06-26-Dolphin-Centre-AGM.pdf) (PDF)  
 ![ ](http://tayport.org.uk/media/2018-06-26-Dolphin-Centre-AGM.png " ")
 
+---
+Fife Summer Slam  
+![ ](http://tayport.org.uk/media/2018-07-fife-summer-slam.jpg " ")
+
+
 ## Local News
 
 **Cleaner required for immediate start**  
