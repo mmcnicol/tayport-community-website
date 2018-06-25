@@ -14,7 +14,8 @@ Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdf
 
 ---
 Fife Summer Slam  
-![ ](http://tayport.org.uk/media/2018-07-fife-summer-slam.jpg " ")
+![ ](http://tayport.org.uk/media/2018-07-fife-summer-slam.jpg " ")  
+Fife Summer Slam <a href="http://tayport.org.uk/pdfs/2018-07-fife-summer-slam-consent-form-DB.pdf">Parent/Guardian Consent Form</a>
 
 
 ## Local News
