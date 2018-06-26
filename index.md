@@ -20,6 +20,11 @@ Fife Summer Slam
 
 ## Local News
 
+Subject: 20p Bus Journeys for Kids -  Dundee and Taybridge Area  
+Running from Saturday (June 30) to Monday August 13 and again from Saturday October 6 to Sunday October 21 the scheme will allow families to enjoy a day out and discover the city by bus with up to three under 16s per paying adult including those with season tickets and weekly passes travelling for 20p each.
+
+
+---
 **Cleaner required for immediate start**  
 Forgan Arts Centre, Cupar Road, Newport on Tay, DD6 8RA  
 Freelance experienced cleaner needed for 1.5 hours per day Monday-Friday.  
