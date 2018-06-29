@@ -9,10 +9,6 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-Dolphin Youth & Community Centre AGM 2018 [learn more](http://tayport.org.uk/pdfs/2018-06-26-Dolphin-Centre-AGM.pdf) (PDF)  
-![ ](http://tayport.org.uk/media/2018-06-26-Dolphin-Centre-AGM.png " ")
-
----
 Fife Summer Slam  
 <a href="http://tayport.org.uk/pdfs/2018-07-fife-summer-slam-consent-form-DB.pdf">Parent/Guardian Consent Form</a> (PDF)  
 ![ ](http://tayport.org.uk/media/2018-07-fife-summer-slam.jpg " ")  
