@@ -20,6 +20,25 @@ Fife Summer Slam
 
 ## Local News
 
+**Gas distribution company SGN will shortly be starting work to upgrade the local gas supply network in the William Street area of Tayport.**
+
+The existing metal gas mains and services need to be replaced with modern plastic pipe to ensure a continued safe and reliable gas supply to the local community.
+
+The essential work forms part of an ongoing mains replacement programme developed with the Health and Safety Executive. Following discussions with Fife Council, our project will start on Saturday 30 June and last approximately six weeks.
+
+We’ll start our work in Maitland Street from the roundabout with Mill Lane to its junction with Queen Street. Maitland Street will be closed for the duration of our six-week project and there will be signed diversions in place for motorists.
+
+Our second team of engineers will be working in Queen Street between its junctions with Maitland Street and William Street. We will progress northwards into William Street until we reach its junction with Castle Road. Both sections of road will be closed for the duration of our work and diversion routes will be in place. 
+
+We will also carry out work in a section of Reform Street and the road will be closed to through traffic between its junctions with William Street and Castle Street. To ensure everyone’s safety around our work area, we will need to close Spearshill Road between its junctions with Castle Road and Dougall Street.
+
+We may need to suspend some parking around our work area and in surrounding streets to allow continued traffic flow for motorists following diversion routes. Access will be maintained for residents at all times.
+
+SGN Engineering Manager Lindsay Taylor said: “We’ve worked closely with the local authorities in planning this work and we will be doing everything we can to limit disruption during our essential project.
+
+“We appreciate that roadworks can be frustrating, however, the new plastic pipe has a minimum lifespan of 80 years. This means once the work has been completed, Tayport homes and businesses will enjoy the benefits of a continued safe and reliable gas supply for many years to come.”
+
+---
 **20p Bus Journeys for Kids -  Dundee and Taybridge Area**  
 Running from Saturday (June 30) to Monday August 13 and again from Saturday October 6 to Sunday October 21 the scheme will allow families to enjoy a day out and discover the city by bus with up to three under 16s per paying adult including those with season tickets and weekly passes travelling for 20p each.
 
