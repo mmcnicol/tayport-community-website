@@ -16,7 +16,7 @@ Ferryport Gala, 11th August
 
 ## Local News
 
-Citizen of the Year
+Citizen of the Year  
 [2018 citizen-of-the-year-poster](http://tayport.org.uk/media/2018-citizen-of-the-year-poster4.jpg)  
 [2018 citizen-of-the-year-poster-nominees](http://tayport.org.uk/media/2018-citizen-of-the-year-poster-nominees.jpg)
 
