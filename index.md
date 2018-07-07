@@ -9,13 +9,16 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-Fife Summer Slam  
-<a href="http://tayport.org.uk/pdfs/2018-07-fife-summer-slam-consent-form-DB.pdf">Parent/Guardian Consent Form</a> (PDF)  
-![ ](http://tayport.org.uk/media/2018-07-fife-summer-slam.jpg " ")  
+
 
 
 ## Local News
 
+(Fun, Free Outdoor Activities on Offer to Thousands of Dundee Residents with the return of ParkLives)[http://www.leisureandculturedundee.com/fun-free-outdoor-activities-offer-thousands-dundee-residents-return-parklives-0]  
+Parks and greenspaces across Dundee are playing host to hundreds of fun, free activity sessions as ParkLives returns to the city for a third year...  
+More details about the sessions, times and locations can be found at (www.facebook.com/ParkLivesDundee)[http://www.facebook.com/ParkLivesDundee]
+
+---
 **Gas distribution company SGN will shortly be starting work to upgrade the local gas supply network in the William Street area of Tayport.**
 
 The existing metal gas mains and services need to be replaced with modern plastic pipe to ensure a continued safe and reliable gas supply to the local community.
