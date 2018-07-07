@@ -14,9 +14,9 @@ keywords: news, events, cafe
 
 ## Local News
 
-(Fun, Free Outdoor Activities on Offer to Thousands of Dundee Residents with the return of ParkLives)[http://www.leisureandculturedundee.com/fun-free-outdoor-activities-offer-thousands-dundee-residents-return-parklives-0]  
+[Fun, Free Outdoor Activities on Offer to Thousands of Dundee Residents with the return of ParkLives](http://www.leisureandculturedundee.com/fun-free-outdoor-activities-offer-thousands-dundee-residents-return-parklives-0)  
 Parks and greenspaces across Dundee are playing host to hundreds of fun, free activity sessions as ParkLives returns to the city for a third year...  
-More details about the sessions, times and locations can be found at (www.facebook.com/ParkLivesDundee)[http://www.facebook.com/ParkLivesDundee]
+More details about the sessions, times and locations can be found at [www.facebook.com/ParkLivesDundee](http://www.facebook.com/ParkLivesDundee)
 
 ---
 **Gas distribution company SGN will shortly be starting work to upgrade the local gas supply network in the William Street area of Tayport.**
