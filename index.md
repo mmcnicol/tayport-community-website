@@ -9,11 +9,18 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-
-
+Ferryport Gala, 11th August  
+[2018 ferryport-gala-poster](http://tayport.org.uk/media/2018-08-11-ferryport-gala-poster.jpg)  
+[2018 ferryport-gala-poster-fancydress](http://tayport.org.uk/media/2018-08-11-ferryport-gala-poster-fancydress.jpg)  
+[2018 ferryport-gala-bubbles2](http://tayport.org.uk/media/2018-08-11-ferryport-gala-bubbles2.jpg)
 
 ## Local News
 
+Citizen of the Year
+[2018 citizen-of-the-year-poster](http://tayport.org.uk/media/2018-citizen-of-the-year-poster4.jpg)  
+[2018 citizen-of-the-year-poster-nominees](http://tayport.org.uk/media/2018-citizen-of-the-year-poster-nominees.jpg)
+
+---
 [Fun, Free Outdoor Activities on Offer to Thousands of Dundee Residents with the return of ParkLives](http://www.leisureandculturedundee.com/fun-free-outdoor-activities-offer-thousands-dundee-residents-return-parklives-0)  
 Parks and greenspaces across Dundee are playing host to hundreds of fun, free activity sessions as ParkLives returns to the city for a third year...  
 More details about the sessions, times and locations can be found at [www.facebook.com/ParkLivesDundee](http://www.facebook.com/ParkLivesDundee)
