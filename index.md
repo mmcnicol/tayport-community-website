@@ -14,6 +14,11 @@ Ferryport Gala, 11th August
 [2018 ferryport-gala-poster-fancydress](http://tayport.org.uk/media/2018-08-11-ferryport-gala-poster-fancydress.jpg)  
 [2018 ferryport-gala-bubbles2](http://tayport.org.uk/media/2018-08-11-ferryport-gala-bubbles2.jpg)
 
+---
+[Forgan Arts Centre](http://forganartscentre.co.uk/)  
+Summer for kids at Forgan Arts... This summer they have workshops and classes for kids and youths of all ages, and many that you can attend with them if you would like to do  something a little different together.  
+[Forgan arts summer brochure](https://issuu.com/forganartscentre1/docs/forgan_arts_summer_brochure_be1196d88eabb2)
+
 ## Local News
 
 Citizen of the Year  
