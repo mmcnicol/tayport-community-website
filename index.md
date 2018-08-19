@@ -9,18 +9,13 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-Ferryport Gala, 11th August  
-[2018 ferryport-gala-poster](http://tayport.org.uk/media/2018-08-11-ferryport-gala-poster.jpg)  
-[2018 ferryport-gala-poster-fancydress](http://tayport.org.uk/media/2018-08-11-ferryport-gala-poster-fancydress.jpg)  
-[2018 ferryport-gala-bubbles2](http://tayport.org.uk/media/2018-08-11-ferryport-gala-bubbles2.jpg)
-
----
-[Forgan Arts Centre](http://forganartscentre.co.uk/)  
-Summer for kids at Forgan Arts... This summer they have workshops and classes for kids and youths of all ages, and many that you can attend with them if you would like to do  something a little different together.  
-[Forgan arts summer brochure](https://issuu.com/forganartscentre1/docs/forgan_arts_summer_brochure_be1196d88eabb2)
 
 ## Local News
 
+**Gas distribution company SGN will shortly be starting phase 2 of work to upgrade the local gas supply network starting at the School Wynd area in Tayport.**
+[Next phase at Tayport](http://tayport.org.uk/pdfs/2018-SGN-Customer-Leaflet-School-Wynd-Area-Tayport.pdf)
+
+---
 Citizen of the Year  
 [2018 citizen-of-the-year-poster](http://tayport.org.uk/media/2018-citizen-of-the-year-poster4.jpg)  
 [2018 citizen-of-the-year-poster-nominees](http://tayport.org.uk/media/2018-citizen-of-the-year-poster-nominees.jpg)
