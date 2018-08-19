@@ -12,7 +12,7 @@ keywords: news, events, cafe
 
 ## Local News
 
-**Gas distribution company SGN will shortly be starting phase 2 of work to upgrade the local gas supply network starting at the School Wynd area in Tayport.**
+**Gas distribution company SGN will shortly be starting phase 2 of work to upgrade the local gas supply network starting at the School Wynd area in Tayport.**  
 [Next phase at Tayport](http://tayport.org.uk/pdfs/2018-SGN-Customer-Leaflet-School-Wynd-Area-Tayport.pdf)
 
 ---
