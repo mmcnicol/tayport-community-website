@@ -12,7 +12,11 @@ keywords: news, events, cafe
 
 ## Local News
 
-**Gas distribution company SGN will shortly be starting phase 2 of work to upgrade the local gas supply network starting at the School Wynd area in Tayport.**  
+**Job Advert: Assistant Centre Co-ordinator at Forgan Arts Centre**  
+[click here for more details](http://tayport.org.uk/pdfs/2018-Assistant-Centre-Coordinator-Job-advert-Sept-2018.pdf)
+
+---
+Gas distribution company SGN will shortly be starting phase 2 of work to upgrade the local gas supply network starting at the School Wynd area in Tayport.  
 [Next phase at Tayport](http://tayport.org.uk/pdfs/2018-SGN-Customer-Leaflet-School-Wynd-Area-Tayport.pdf)
 
 ---
@@ -26,7 +30,7 @@ Parks and greenspaces across Dundee are playing host to hundreds of fun, free ac
 More details about the sessions, times and locations can be found at [www.facebook.com/ParkLivesDundee](http://www.facebook.com/ParkLivesDundee)
 
 ---
-**Gas distribution company SGN will shortly be starting work to upgrade the local gas supply network in the William Street area of Tayport.**
+Gas distribution company SGN will shortly be starting work to upgrade the local gas supply network in the William Street area of Tayport.
 
 The existing metal gas mains and services need to be replaced with modern plastic pipe to ensure a continued safe and reliable gas supply to the local community.
 
