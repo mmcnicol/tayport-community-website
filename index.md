@@ -9,6 +9,8 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
+![ ](http://tayport.org.uk/media/2018-christmas-light-poster.jpg " ")
+
 
 ## Local News
 
