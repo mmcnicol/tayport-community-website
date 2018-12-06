@@ -9,21 +9,18 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-FRIENDS OF DUNDEE CITY ARCHIVES  
-in association with Dundee Central Library and the National Library of Scotland  
-Two short silent Tayport films will be shown in the Steps Theatre, Dundee Central  Library, on Thursday 8th November 2018 at 1215 and again at 115.  
-Everyone welcome. No need to book.  
-Wartime in Tayport and 1953 Coronation Year  
-Friends of Dundee City Archives [www.fdca.org.uk](http://www.fdca.org.uk)
-
-
----
-
-![ ](http://tayport.org.uk/media/2018-christmas-light-poster.jpg " ")
-
 
 ## Local News
 
+[TCC Minutes of 1st October 2018](http://tayport.org.uk/pdfs/2018-10-01-TCC-Minutes.pdf)
+
+---
+[TCC Minutes of 3rd September 2018](http://tayport.org.uk/pdfs/2018-09-03-TCC-Minutes.pdf)
+
+---
+[TCC Minutes of 2nd July 2018](http://tayport.org.uk/pdfs/2018-07-02-TCC-Minutes.pdf)
+
+---
 **Job Advert: Assistant Centre Co-ordinator at Forgan Arts Centre**  
 [click here for more details](http://tayport.org.uk/pdfs/2018-Assistant-Centre-Coordinator-Job-advert-Sept-2018.pdf)
 
