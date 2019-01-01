@@ -12,6 +12,9 @@ keywords: news, events, cafe
 
 ## Local News
 
+[A New Year message from Tayport Scouts](http://tayport.org.uk/media/20190101-tayport-scouts.jpg)
+
+---
 [TCC Minutes of 1st October 2018](http://tayport.org.uk/pdfs/2018-10-01-TCC-Minutes.pdf)
 
 ---
