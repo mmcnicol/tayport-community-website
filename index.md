@@ -12,6 +12,23 @@ keywords: news, events, cafe
 
 ## Local News
 
+
+Tayport FC’s New Programme Archive
+
+Tayport Football Club has been issuing programmes for most home matches since the early 1990s and every one of these programmes plus some issued in the club’s amateur days is now available on a new website [www.tayportfcarchive.com](http://www.tayportfcarchive.com/)
+
+It’s a comprehensive Archive of 435 programmes which have been digitised by staff at the University of St Andrews Library.
+
+Through the medium of these matchday programmes the Archive traces the fortunes of Tayport FC during its hugely successful period in Junior Football from 1990 to the present day, playing matches against almost 100 different clubs.
+It’s a period in which the club made six Scottish Junior Cup Final appearances, winning three, won two East Region Super League titles, two Premier League titles, nine Tayside Championships and thirty two local and regional cup competitions. 
+
+It’s a veritable cornucopia of Junior football nostalgia with a good measure of community interest thrown in.
+
+Tayport FC would be pleased to receive any comments or answer any questions relating to the Archive. 
+
+Contact us on: tayportfcarchive@gmail.com
+
+---
 [A New Year message from Tayport Scouts](http://tayport.org.uk/media/20190101-tayport-scouts.jpg)
 
 ---
