@@ -12,7 +12,9 @@ keywords: news, events, cafe
 
 ## Local News
 
+[TCC Minutes of 5th November 2018](http://tayport.org.uk/pdfs/2018-11-05-TCC-Minutes.pdf)
 
+---
 Tayport FC’s New Programme Archive
 
 Tayport Football Club has been issuing programmes for most home matches since the early 1990s and every one of these programmes plus some issued in the club’s amateur days is now available on a new website [www.tayportfcarchive.com](http://www.tayportfcarchive.com/)
