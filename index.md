@@ -12,7 +12,7 @@ keywords: news, events, cafe
 
 ## Local News
 
-**A Glimpse into Tayport's past: Part 2 **  
+**A Glimpse into Tayport's past: Part 2**
 Compiled and presented by George Gall  
 Friday 1st February 2019 in Tayport Parish Church at 7.00 pm  
 Ticket price £5.  Tickets can be purchased in advance from Wallace Hughes, Castle Street, Tayport.  
