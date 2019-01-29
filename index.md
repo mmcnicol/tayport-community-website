@@ -12,6 +12,13 @@ keywords: news, events, cafe
 
 ## Local News
 
+**A Glimpse into Tayport's past: Part 2 **
+Compiled and presented by George Gall
+Friday 1st February 2019 in Tayport Parish Church at 7.00 pm
+Ticket price £5.  Tickets can be purchased in advance from Wallace Hughes, Castle Street, Tayport.
+All proceeds will go towards the restoration of the Auld Kirk building and its developments as a heritage and arts centre.
+
+---
 [TCC Minutes of 5th November 2018](http://tayport.org.uk/pdfs/2018-11-05-TCC-Minutes.pdf)
 
 ---
