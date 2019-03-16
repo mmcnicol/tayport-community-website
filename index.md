@@ -15,7 +15,7 @@ keywords: news, events, cafe
 ## Local News
 
 
-[TCC Minutes of 4th February 2019](http://tayport.org.uk/pdfs/2018-02-4-TCC-Minutes.doc)
+[TCC Minutes of 4th February 2019](http://tayport.org.uk/pdfs/2019-02-04-TCC-Minutes.doc)
 
 [TCC Minutes of 5th November 2018](http://tayport.org.uk/pdfs/2018-11-05-TCC-Minutes.pdf)
 
