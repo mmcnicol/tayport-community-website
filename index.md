@@ -14,10 +14,19 @@ keywords: news, events, cafe
 
 ## Local News
 
+You can help Laura Dobson raise money for this great cause by donating directly to their fundraising page - [https://www.justgiving.com/37thFife1Tayport](https://www.justgiving.com/37thFife1Tayport)
+
+JustGiving sends your donation straight to Scouts Scotland and automatically reclaims Gift Aid if you are a UK taxpayer, so your donation is worth even more. 
+
+Thank you for your support!
+
+---
 [TCC Minutes of 4th March 2019](http://tayport.org.uk/pdfs/2019-03-04-TCC-Minutes.doc)
 
+---
 [TCC Minutes of 4th February 2019](http://tayport.org.uk/pdfs/2019-02-04-TCC-Minutes.doc)
 
+---
 [TCC Minutes of 5th November 2018](http://tayport.org.uk/pdfs/2018-11-05-TCC-Minutes.pdf)
 
 ---
