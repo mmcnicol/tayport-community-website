@@ -14,6 +14,8 @@ keywords: news, events, cafe
 
 ## Local News
 
+Falkirk Wheel Abseil - Leader for the Drop
+
 You can help Laura Dobson raise money for this great cause by donating directly to their fundraising page - [https://www.justgiving.com/37thFife1Tayport](https://www.justgiving.com/37thFife1Tayport)
 
 JustGiving sends your donation straight to Scouts Scotland and automatically reclaims Gift Aid if you are a UK taxpayer, so your donation is worth even more. 
