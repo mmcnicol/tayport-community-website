@@ -14,6 +14,11 @@ keywords: news, events, cafe
 
 ## Local News
 
+
+
+[TCC Minutes of 1st April 2019](http://tayport.org.uk/pdfs/20190401-TCC-Minutes.doc)
+
+---
 Falkirk Wheel Abseil - Leader for the Drop
 
 You can help Laura Dobson raise money for this great cause by donating directly to their fundraising page - [https://www.justgiving.com/37thFife1Tayport](https://www.justgiving.com/37thFife1Tayport)
