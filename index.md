@@ -15,6 +15,9 @@ keywords: news, events, cafe
 ## Local News
 
 
+[TCC AGM Minutes of 6th May 2019](http://tayport.org.uk/pdfs/2019-TCC-AGM-Minutes-of-6th-May-2019.doc)
+
+---
 [TCC AGM Agenda for 6th May 2019](http://tayport.org.uk/pdfs/2019-TCC-AGM-Agenda-for-6th-May.doc)
 
 ---
