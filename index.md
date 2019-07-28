@@ -9,9 +9,6 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-June 2019:
-[Art and Crafts Fayre](http://tayport.org.uk/pdfs/2019-Art-and-Crafts-Fayre-June-2019-public-poster.pdf) (PDF)  
-![ ](http://tayport.org.uk/pdfs/2019-Art-and-Crafts-Fayre-June-2019-public-poster.png " ")
 
 
 ## Local News
