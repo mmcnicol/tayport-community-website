@@ -17,6 +17,9 @@ June 2019:
 ## Local News
 
 
+[Tayview Medical Practice Newsletter](http://www.mysurgerywebsite.co.uk/website/F21609/files/newsletter.pdf)
+
+---
 [TCC AGM Minutes of 6th May 2019](http://tayport.org.uk/pdfs/2019-TCC-AGM-Minutes-of-6th-May-2019.doc)
 
 ---
