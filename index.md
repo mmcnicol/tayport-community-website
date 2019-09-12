@@ -13,16 +13,13 @@ keywords: news, events, cafe
 
 ## Local News
 
+[Tayview Medical Practice Newsletter](http://www.mysurgerywebsite.co.uk/website/F21609/files/newsletter.pdf)
+
 ---
 [TCC Minutes of 1st July 2019](http://tayport.org.uk/pdfs/2019-07-01-TCC-Minutes.doc)
 
 ---
 [TCC Minutes of 3rd June 2019](http://tayport.org.uk/pdfs/2019-06-03-TCC Minutes.doc)
-
-
-
-
-[Tayview Medical Practice Newsletter](http://www.mysurgerywebsite.co.uk/website/F21609/files/newsletter.pdf)
 
 ---
 [TCC AGM Minutes of 6th May 2019](http://tayport.org.uk/pdfs/2019-TCC-AGM-Minutes-of-6th-May-2019.doc)
