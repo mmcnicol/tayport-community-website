@@ -13,6 +13,9 @@ keywords: news, events, cafe
 
 ## Local News
 
+[Auld Kirk AGM](http://tayport.org.uk/pdfs/2019-Auld-Kirk-AGM-Notice.doc)
+
+---
 [Tayview Medical Practice Newsletter](http://www.mysurgerywebsite.co.uk/website/F21609/files/newsletter.pdf)
 
 ---
