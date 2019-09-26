@@ -13,7 +13,7 @@ keywords: news, events, cafe
 
 ## Local News
 
-[Auld Kirk AGM](http://tayport.org.uk/pdfs/2019-Auld-Kirk-AGM-Notice.doc)
+[Auld Kirk AGM](http://tayport.org.uk/pdfs/2019-Auld-Kirk-AGM-Notice.doc) - Thursday, 17th October 2019 at 7.00 pm in the Auld Kirk
 
 ---
 [Tayview Medical Practice Newsletter](http://www.mysurgerywebsite.co.uk/website/F21609/files/newsletter.pdf)
