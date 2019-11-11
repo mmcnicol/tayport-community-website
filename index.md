@@ -9,10 +9,16 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
+![2019 Lights Switch On poster](http://tayport.org.uk/pdfs/2019-Lights-Switch-On-poster.png)
+
+![2019 Santa Fun Run poster](http://tayport.org.uk/pdfs/2019-Santa-Fun-Run-poster.png)
 
 
 ## Local News
 
+[TCC Minutes of 7th October 2019](http://tayport.org.uk/pdfs/2019-10-07-TCC-Minutes.doc)
+
+---
 [Auld Kirk AGM](http://tayport.org.uk/pdfs/2019-Auld-Kirk-AGM-Notice.doc) - Thursday, 17th October 2019 at 7.00 pm in the Auld Kirk
 
 ---
