@@ -9,17 +9,11 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-![2019 Lights Switch On poster](http://tayport.org.uk/pdfs/2019-Lights-Switch-On-poster.png)
-
-![2019 Santa Fun Run poster](http://tayport.org.uk/pdfs/2019-Santa-Fun-Run-poster.png)
-
+![2019 Carol Concert](http://tayport.org.uk/pdfs/2019-Carol-Concert-Poster.png)
 
 ## Local News
 
 [TCC Minutes of 7th October 2019](http://tayport.org.uk/pdfs/2019-10-07-TCC-Minutes.doc)
-
----
-[Auld Kirk AGM](http://tayport.org.uk/pdfs/2019-Auld-Kirk-AGM-Notice.doc) - Thursday, 17th October 2019 at 7.00 pm in the Auld Kirk
 
 ---
 [Tayview Medical Practice Newsletter](http://www.mysurgerywebsite.co.uk/website/F21609/files/newsletter.pdf)
@@ -38,15 +32,6 @@ keywords: news, events, cafe
 
 ---
 [TCC Minutes of 1st April 2019](http://tayport.org.uk/pdfs/20190401-TCC-Minutes.doc)
-
----
-Falkirk Wheel Abseil - Leader for the Drop
-
-You can help Laura Dobson raise money for this great cause by donating directly to their fundraising page - [https://www.justgiving.com/37thFife1Tayport](https://www.justgiving.com/37thFife1Tayport)
-
-JustGiving sends your donation straight to Scouts Scotland and automatically reclaims Gift Aid if you are a UK taxpayer, so your donation is worth even more. 
-
-Thank you for your support!
 
 ---
 [TCC Minutes of 4th March 2019](http://tayport.org.uk/pdfs/2019-03-04-TCC-Minutes.doc)
@@ -86,62 +71,12 @@ Contact us on: tayportfcarchive@gmail.com
 [TCC Minutes of 2nd July 2018](http://tayport.org.uk/pdfs/2018-07-02-TCC-Minutes.pdf)
 
 ---
-**Job Advert: Assistant Centre Co-ordinator at Forgan Arts Centre**  
-[click here for more details](http://tayport.org.uk/pdfs/2018-Assistant-Centre-Coordinator-Job-advert-Sept-2018.pdf)
-
----
-Gas distribution company SGN will shortly be starting phase 2 of work to upgrade the local gas supply network starting at the School Wynd area in Tayport.  
-[Next phase at Tayport](http://tayport.org.uk/pdfs/2018-SGN-Customer-Leaflet-School-Wynd-Area-Tayport.pdf)
-
----
 Citizen of the Year  
 [2018 citizen-of-the-year-poster](http://tayport.org.uk/media/2018-citizen-of-the-year-poster4.jpg)  
 [2018 citizen-of-the-year-poster-nominees](http://tayport.org.uk/media/2018-citizen-of-the-year-poster-nominees.jpg)
 
 ---
-[Fun, Free Outdoor Activities on Offer to Thousands of Dundee Residents with the return of ParkLives](http://www.leisureandculturedundee.com/fun-free-outdoor-activities-offer-thousands-dundee-residents-return-parklives-0)  
-Parks and greenspaces across Dundee are playing host to hundreds of fun, free activity sessions as ParkLives returns to the city for a third year...  
-More details about the sessions, times and locations can be found at [www.facebook.com/ParkLivesDundee](http://www.facebook.com/ParkLivesDundee)
-
----
-Gas distribution company SGN will shortly be starting work to upgrade the local gas supply network in the William Street area of Tayport.
-
-The existing metal gas mains and services need to be replaced with modern plastic pipe to ensure a continued safe and reliable gas supply to the local community.
-
-The essential work forms part of an ongoing mains replacement programme developed with the Health and Safety Executive. Following discussions with Fife Council, our project will start on Saturday 30 June and last approximately six weeks.
-
-We’ll start our work in Maitland Street from the roundabout with Mill Lane to its junction with Queen Street. Maitland Street will be closed for the duration of our six-week project and there will be signed diversions in place for motorists.
-
-Our second team of engineers will be working in Queen Street between its junctions with Maitland Street and William Street. We will progress northwards into William Street until we reach its junction with Castle Road. Both sections of road will be closed for the duration of our work and diversion routes will be in place. 
-
-We will also carry out work in a section of Reform Street and the road will be closed to through traffic between its junctions with William Street and Castle Street. To ensure everyone’s safety around our work area, we will need to close Spearshill Road between its junctions with Castle Road and Dougall Street.
-
-We may need to suspend some parking around our work area and in surrounding streets to allow continued traffic flow for motorists following diversion routes. Access will be maintained for residents at all times.
-
-SGN Engineering Manager Lindsay Taylor said: “We’ve worked closely with the local authorities in planning this work and we will be doing everything we can to limit disruption during our essential project.
-
-“We appreciate that roadworks can be frustrating, however, the new plastic pipe has a minimum lifespan of 80 years. This means once the work has been completed, Tayport homes and businesses will enjoy the benefits of a continued safe and reliable gas supply for many years to come.”
-
----
-**20p Bus Journeys for Kids -  Dundee and Taybridge Area**  
-Running from Saturday (June 30) to Monday August 13 and again from Saturday October 6 to Sunday October 21 the scheme will allow families to enjoy a day out and discover the city by bus with up to three under 16s per paying adult including those with season tickets and weekly passes travelling for 20p each.
-
-
----
-**Cleaner required for immediate start**  
-Forgan Arts Centre, Cupar Road, Newport on Tay, DD6 8RA  
-Freelance experienced cleaner needed for 1.5 hours per day Monday-Friday.  
-Hours to be worked before 9.30am.  
-General cleaning duties including floors, surfaces, windows and sanitary areas.  
-£8.85 per hour. Paid monthly to invoice by Bacs.  
-To find out more contact Alana on 01382 542062 or info@forganartscentre.co.uk
-
----
-Tayport, Various Streets - Temporary Traffic Restrictions  
-From Saturday 30 June - Tuesday 14 August, several streets within Tayport will be closed [learn more](https://www.stagecoachbus.com/service-updates/serviceupdatesarticle?SituationId=ID-24/05/2018-15:58:09:483)  
-[map#1](http://tayport.org.uk/pdfs/2018-Tayport-300618.pdf) (PDF)  
-[map#2](http://tayport.org.uk/pdfs/2018-Temp-Stops-Location-Tayport-Closure.pdf) (PDF)  
-![ ](http://tayport.org.uk/media/2018-Tayport-300618.png " ")
+[Fun, Free Outdoor Activities on Offer to Thousands of Dundee Residents with the return of ParkLives](http://www.leisureandculturedunde
 
 ---
 [TCC AGM Minutes of 7th May 2018](http://tayport.org.uk/pdfs/2018-05-07-TCC-AGM-Minutes.pdf)
@@ -167,15 +102,6 @@ From Saturday 30 June - Tuesday 14 August, several streets within Tayport will b
 [TCC Minutes of 4th December 2017](pdfs/2017-12-04-TCC-Minutes.pdf)
 
 ---
-ParkLives Dundee
-
-Leisure and Culture Dundee, working in partnership with Dundee City Council, have teamed up with Coca-Cola Great Britain to bring the ParkLives programme to Dundee. ParkLives is a FREE and easy way for you to get the best out of your local park, with activities for all ages &amp; abilities.
-
-To find out what activities are running throughout the winter, please click [parklives](https://www.parklives.com/activities?councilId=10)
-
-Our 2018 programme will kick off in April, please like our Facebook Page ‘Parklives Dundee’ to keep up to date with latest news!
-
----
 [Tayview Medical Practice Newsletter](pdfs/2018-01-02-practice-newsletter.pdf)
 
 ---
@@ -198,11 +124,6 @@ Register your interest now by email or Facebook. See [poster](pdfs/2017-11-22-Sc
 
 ---
 [TCC Minutes of 2nd October 2017](pdfs/2017-10-02-TCC-Minutes.pdf)
-
----
-Night time buses from 1900 hours unlimited travel throughout fife and dundee for £2
-
-[link to fife today article](http://www.fifetoday.co.uk/news/cut-price-ticket-deal-for-night-time-buses-1-4585384)
 
 ---
 Tayport Scout Troop:<br>We are now in a position to look at the refurbishment of the exterior of the Scout Hall. This will allow us to improve the facilities we provide as well as allowing us to develop new services. It is important that the community has a say in how we take this forward and we would be grateful if you would take a few minutes to complete the attached survey. This should take no longer than 2 minutes to complete. [https://www.surveymonkey.co.uk/r/8WBJZWY](https://www.surveymonkey.co.uk/r/8WBJZWY)
@@ -250,32 +171,6 @@ Tayport man Irvine Rae receives Legion d’honneour (Dundee Courier)
 <a href="https://www.thecourier.co.uk/fp/news/local/fife/464146/fife-d-day-veteran-awarded-the-french-legion-dhonneur/">Fife D-Day veteran awarded the French Légion d’honneur</a>
 
 <img src="media/SOCIAL-Veteran-084487.jpg">
-
----
-<a href="media/2017-citizen-of-year-nominees.jpg">Tayport – Ferryport on Craig Community Council Citizen of the year award 2017</a>
-
----
-<a href="media/2017-burgh-gregory.jpg">Community Assets Transfer</a>
-
-<strong>Derek Gray‎ to Tayport Community Council</strong>
-
-I am pleased to report that 20 local residents (including some representing local groups/organisations) plus our three Councillors and officers from Fife Council, attended the meeting to discuss interest in setting up a working group to explore the future of the Burgh Chambers and Gregory Hall.
-
-Lots of very relevant questions were asked and the outcome was that ten people have signed up to be part of the working group which will have its first meeting on either Tuesday 19th or Tuesday 26th September 2017 (date to be confirmed), 7.00pm at the Burgh Chambers. If anyone else would wish to join the working group, please contact me so I can advise which date is finally agreed – dek.gray@gmail.com, tel 07539 932018
-
-I expect an early priority of the working group will be to identify how best to keep the community updated on the progress it is making.
-
-Thank you to everyone for their interest and contributions and to Janice Laird, Fife Council’s Community Manager for North East Fife Area for her input.
-
-Derek Gray
-
----
-<a href="media/IMG_7298.jpg">Kids travel For 20 pence across Dundee Area including Tayport</a>
-
-The travel offer is to adults with children and young persons to travel for 20pence. Available across all buses including Stagecoach, Moffat and Williamson, Dundee Explorer.
-
----
-<a href="media/pooport2.jpg">"Pooport" Posters</a>
 
 ---
 A great wet weather alternative – Join the Library
