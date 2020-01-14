@@ -9,7 +9,6 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
-![2019 Carol Concert](http://tayport.org.uk/pdfs/2019-Carol-Concert-Poster.png)
 
 ## Local News
 
