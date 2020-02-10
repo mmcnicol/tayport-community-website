@@ -12,6 +12,9 @@ keywords: news, events, cafe
 
 ## Local News
 
+[welcome to fife tentsmuir forest outdoor cinema](http://tayport.org.uk/pdfs/2020-welcome-to-fife-tentsmuir-forest-outdoor-cinema.pdf)
+
+---
 [TCC Minutes of 2nd December 2019](http://tayport.org.uk/pdfs/2019-12-02-TCC-Minutes.doc)
 
 ---
