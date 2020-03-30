@@ -14,6 +14,8 @@ June: [welcome to fife tentsmuir forest outdoor cinema](http://tayport.org.uk/pd
 
 ## Local News
 
+[Universal Credit - What you can claim during Coronavirus](http://tayport.org.uk/pdfs/2019-What-to-Claim-Coronavirus-Factsheet-v3.pdf)
+
 [TCC Minutes of 2nd December 2019](http://tayport.org.uk/pdfs/2019-12-02-TCC-Minutes.doc)
 
 ---
