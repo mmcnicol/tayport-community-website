@@ -9,10 +9,20 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
+The 8th May 2020 marks 75 years since the guns fell silent and the Second World War in Europe came to an end. VE Day 75. 
+[The Royal British Legion](https://www.britishlegion.org.uk/) are calling on the nation to mark the 75th anniversary of VE Day from home.
+
 June: [welcome to fife tentsmuir forest outdoor cinema](http://tayport.org.uk/pdfs/2020-welcome-to-fife-tentsmuir-forest-outdoor-cinema.pdf)
 
 
 ## Local News
+
+
+
+
+
+
+
 
 [Universal Credit - What you can claim during Coronavirus](http://tayport.org.uk/pdfs/2019-What-to-Claim-Coronavirus-Factsheet-v3.pdf)
 
