@@ -22,9 +22,10 @@ the latest Sunday Services from across North Fife Presbytery can be found on [ww
 
 
 
-
+---
 [Universal Credit - What you can claim during Coronavirus](http://tayport.org.uk/pdfs/2019-What-to-Claim-Coronavirus-Factsheet-v3.pdf)
 
+---
 [TCC Minutes of 2nd December 2019](http://tayport.org.uk/pdfs/2019-12-02-TCC-Minutes.doc)
 
 ---
