@@ -36,9 +36,6 @@ phone: (01382) 552512
 Co-Op  
 Licenced Grocers
 
-Cynicus Picture Framing  
-phone: (01382) 552383
-
 David Beat  
 Plumbing &amp; Heating  
 phone: (01382) 552656
