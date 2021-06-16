@@ -16,7 +16,7 @@ Location: Scout Hall, Elizabeth Street, Tayport
 Tuesday 1600 &#8211; 1800
 
 ### Tayport Brownies
-Location: Parish Church, Queen Street, Tayport  
+Location: Scout Hall, Elizabeth Street, Tayport  
 E: tayportbrownies at yahoo.co.uk  
 Facebook:Tayport Brownies Fife  
-Wednesday 1845 &#8211; 2000
+Tuesday 1845 &#8211; 2000
