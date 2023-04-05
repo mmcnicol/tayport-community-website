@@ -15,12 +15,18 @@ keywords: news, events, cafe
 
 ## Local News
 
+
+---
+[TCC Minutes of 6th March 2023](http://tayport.org.uk/pdfs/2023-03-06-TCC-Minutes.pdf)
+
+---
+[TCC Minutes of 6th February 2023](http://tayport.org.uk/pdfs/2023-02-06-TCC-Minutes.pdf)
+
+---
 [Tentsmuir Newsletter 40th Edition](https://drive.google.com/file/d/170mK9G6lrbatOA7zRnoADaAcPQkRQ0k5/view?usp=drivesdk)
 
 ---
 the latest Sunday Services from across North Fife Presbytery can be found on [www.tayportparishchurch.co.uk](www.tayportparishchurch.co.uk)
-
-
 
 ---
 [Universal Credit - What you can claim during Coronavirus](http://tayport.org.uk/pdfs/2019-What-to-Claim-Coronavirus-Factsheet-v3.pdf)
