@@ -16,7 +16,7 @@ keywords: news, events, cafe
 ## Local News
 
 ---
-<img src="media/2023-COTY-poster.jpg" width="800">
+<img src="media/2023-COTY-poster.jpg" width="700">
 
 ---
 [TCC Minutes of 3th April 2023](http://tayport.org.uk/pdfs/2023-04-03-TCC-Minutes.pdf)
