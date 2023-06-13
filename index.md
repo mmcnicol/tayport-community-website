@@ -16,6 +16,9 @@ keywords: news, events, cafe
 ## Local News
 
 ---
+[TCC AGM Minutes of 1st May 2023](http://tayport.org.uk/pdfs/2023-TCC-AGM-Minutes.pdf)
+
+---
 <img src="media/2023-COTY-poster.jpg" width="700">
 
 ---
