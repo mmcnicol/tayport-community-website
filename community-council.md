@@ -11,16 +11,11 @@ If there is something specific you'd like to raise please contact the Secretary 
 
 Correspondence should be addressed to:
 
-The Secretary,
-Tayport Community Council,
-c/o 65 Ogilvy Street,
-Tayport,
-Fife,
-DD6 9NG
+The Secretary, Tayport Community Council, 19 Harbour Road, Tayport, Fife, DD6 9EX
 
 ### Meeting Minutes
 
-
+* [TCC Minutes of 4th Sept 2023](http://tayport.org.uk/pdfs/2023-09-04-TCC-Minutes.pdf)
 * [TCC Minutes of 5th June 2023](http://tayport.org.uk/pdfs/2023-06-05-TCC-Minutes.pdf)
 * [TCC AGM Minutes of 1st May 2023](http://tayport.org.uk/pdfs/2023-TCC-AGM-Minutes.pdf)
 * [TCC Minutes of 3th April 2023](http://tayport.org.uk/pdfs/2023-04-03-TCC-Minutes.pdf)
