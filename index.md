@@ -16,6 +16,9 @@ keywords: news, events, cafe
 ## Local News
 
 ---
+[Inaugural Meeting of TCC Minutes on 2nd October 2023](http://tayport.org.uk/pdfs/2023-10-Inaugural-Meeting-of-TCC-Minutes-on-2nd-October-2023.pdf)
+
+---
 [TCC Minutes of 4th Sept 2023](http://tayport.org.uk/pdfs/2023-09-04-TCC-Minutes.pdf)
 
 ---
