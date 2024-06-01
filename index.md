@@ -4,7 +4,7 @@ title: Home - Tayport Community
 keywords: news, events, cafe
 ---
 <!-- <a href="http://tayport.org.uk/#site-navigation">jump to Site Navigation</a> -->
-<a href="http://tayport.org.uk/#local-news">jump to Local News</a>
+<a href="https://tayport.org.uk/#local-news">jump to Local News</a>
 
 
 ## Upcoming Events
@@ -17,14 +17,14 @@ keywords: news, events, cafe
 
 
 ---
-Tayport Ferryport on Craig Community Council are seeking nominations for the [Citizen of the Year 2024](http://tayport.org.uk/pdfs/2024-COY.pdf)
-<img src="http://tayport.org.uk/pdfs/2024-COTY-poster.png">
+Tayport Ferryport on Craig Community Council are seeking nominations for the [Citizen of the Year 2024](https://tayport.org.uk/pdfs/2024-COY.pdf)
+<img src="https://tayport.org.uk/pdfs/2024-COTY-poster.png">
 
 ---
-[TCC Minutes of 4th March 2024](http://tayport.org.uk/pdfs/2024-03-TCC-Minutes-of-4th-March-2024.pdf)
+[TCC Minutes of 4th March 2024](https://tayport.org.uk/pdfs/2024-03-TCC-Minutes-of-4th-March-2024.pdf)
 
 ---
-[TCC Minutes of 5th February 2024](http://tayport.org.uk/pdfs/2024-02-05-TCC-Minutes.pdf)
+[TCC Minutes of 5th February 2024](https://tayport.org.uk/pdfs/2024-02-05-TCC-Minutes.pdf)
 
 ---
 [TCC Minutes of 4th December 2023](http://tayport.org.uk/pdfs/2023-12-04-TCC-Minutes.pdf)
