@@ -15,6 +15,8 @@ keywords: news, events, cafe
 
 ## Local News
 
+---
+[TCC Minutes of 1st April 2024](https://tayport.org.uk/pdfs/2024-04-TCC-Minutes.pdf)
 
 ---
 Tayport Ferryport on Craig Community Council are seeking nominations for the [Citizen of the Year 2024](https://tayport.org.uk/pdfs/2024-COY.pdf)  
