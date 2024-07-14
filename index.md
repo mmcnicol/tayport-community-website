@@ -16,6 +16,9 @@ keywords: news, events, cafe
 ## Local News
 
 ---
+[TCC Minutes of 3rd June 2024](https://tayport.org.uk/pdfs/2024-06-03-TCC-Minutes.pdf)
+
+---
 [TCC AGM Minutes of 6th May 2024](https://tayport.org.uk/pdfs/2024-TCC-AGM-Minutes-of-6th-May-2024.pdf)
 
 ---
