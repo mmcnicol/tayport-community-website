@@ -16,6 +16,12 @@ keywords: news, events, cafe
 ## Local News
 
 ---
+[TCC Agenda for 2nd September 2024](https://tayport.org.uk/pdfs/2024-09-TCC-Agenda-for-2nd-September-2024.pdf)
+
+---
+[TCC Minutes of 1st July 2024](https://tayport.org.uk/pdfs/2024-07-TCC-Minutes-of-1st-July-2024.pdf)
+
+---
 [TCC Minutes of 3rd June 2024](https://tayport.org.uk/pdfs/2024-06-03-TCC-Minutes.pdf)
 
 ---
