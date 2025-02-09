@@ -9,13 +9,16 @@ keywords: news, events, cafe
 
 ## Upcoming Events
 
----
-[Christmas Light Celebration 2024](https://tayport.org.uk/pdfs/2024-christmas-lights.pdf)  
-<img src="https://tayport.org.uk/pdfs/2024-christmas-lights.png">
-
 
 
 ## Local News
+
+---
+[TCC Minutes of 2nd December 2024](https://tayport.org.uk/pdfs/2024-12-02-TCC-Minutes.pdf)
+
+---
+[Christmas Light Celebration 2024](https://tayport.org.uk/pdfs/2024-christmas-lights.pdf)  
+<img src="https://tayport.org.uk/pdfs/2024-christmas-lights.png">
 
 ---
 [TCC Minutes of 7th October 2024](https://tayport.org.uk/pdfs/2024-10-TCC-Minutes.pdf)
