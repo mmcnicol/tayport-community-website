@@ -15,6 +15,9 @@ The Secretary, Tayport Community Council, 19 Harbour Road, Tayport, Fife, DD6 9E
 
 ### Meeting Minutes
 
+
+* [TCC Minutes of 3rd February 2025](https://tayport.org.uk/pdfs/2025-02-03
+
 * [TCC Minutes of 2nd December 2024](http://tayport.org.uk/pdfs/2024-12-02-TCC-Minutes.pdf)
 
 * [TCC Minutes of 7th October 2024](https://tayport.org.uk/pdfs/2024-10-TCC-Minutes.pdf)
