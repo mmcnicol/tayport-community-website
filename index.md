@@ -14,6 +14,9 @@ keywords: news, events, cafe
 ## Local News
 
 ---
+[TCC Minutes of 1st September 2025](https://tayport.org.uk/pdfs/2025-09-01-TCC-Minutes.pdf)
+
+---
 [TCC Minutes of 7th July 2025](https://tayport.org.uk/pdfs/2025-07-07-TCC-Minutes.pdf)
 
 ---
