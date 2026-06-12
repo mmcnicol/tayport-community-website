@@ -26,20 +26,24 @@ CATEGORY_KEYWORD = {
     'Poetry':        'local-poetry',
 }
 
-FRONT_MATTER_RE = re.compile(r'^---\s*\n.*?---\s*\n', re.DOTALL)
-JEKYLL_LINK_RE  = re.compile(r'\[([^\]]+)\]\(/history\)')
-BACK_LINK_RE    = re.compile(r'\n---\n\n\[Back to History\]\(/history\)\s*$')
+FRONT_MATTER_RE  = re.compile(r'^---\s*\n.*?---\s*\n', re.DOTALL)
+INTERNAL_LINK_RE = re.compile(r'\[([^\]]+)\]\(/[^)]*\)')  # [text](/any-internal-path)
+BACK_LINK_RE     = re.compile(r'\n+---+\n+\[Back to History\]\(/history\)[^\n]*$', re.MULTILINE)
 
 
 def strip_front_matter(text):
     return FRONT_MATTER_RE.sub('', text, count=1)
 
 
-def clean_body(text):
-    text = JEKYLL_LINK_RE.sub(r'\1', text)
-    text = BACK_LINK_RE.sub('', text)
-    # Remove layout-specific category line (e.g. "*Local History*")
+def clean_body(text, article_title):
+    # Remove the leading "## Title" line — script adds its own heading
+    text = re.sub(r'^##[^\n]+\n', '', text, count=1)
+    # Remove "*Local History*" / "*Memories*" / "*Poetry*" category line
     text = re.sub(r'^\*(Local History|Memories|Poetry)\*\s*\n', '', text, flags=re.MULTILINE)
+    # Remove "Back to History" footer (with any preceding HR)
+    text = BACK_LINK_RE.sub('', text)
+    # Convert internal links to plain text (they don't work in a PDF)
+    text = INTERNAL_LINK_RE.sub(r'\1', text)
     return text.strip()
 
 
@@ -93,7 +97,7 @@ def build_markdown(articles):
         for title, path in articles[cat]:
             with open(path, encoding='utf-8') as f:
                 raw = f.read()
-            body = clean_body(strip_front_matter(raw))
+            body = clean_body(strip_front_matter(raw), title)
             lines.append(f'## {title}')
             lines.append('')
             lines.append(body)
