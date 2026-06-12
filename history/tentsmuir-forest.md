@@ -7,6 +7,8 @@ keywords: tayport, local history, history
 
 *Local History*
 
+> **Note:** This article was written around 2003–2005. Prices, facilities, and other practical details may have changed — please check current sources before visiting.
+
 Tentsmuir is a popular, extensive pine forest planted on the sand dunes at the mouth of the River Tay. There is a wide variety of plants, wildlife and architectural heritage.
 
 
