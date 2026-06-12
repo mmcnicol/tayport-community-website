@@ -1,0 +1,5 @@
+url: "https://tayport.org.uk"
+baseurl: ""
+
+plugins:
+  - jekyll-sitemap

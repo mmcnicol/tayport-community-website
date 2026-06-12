@@ -9,6 +9,16 @@
     <meta name="description" content="A community website dedicated to Tayport which is located on the east coast of Scotland in Fife." />
     <meta name="keywords" content="tayport, fife, scotland, community, {{ page.keywords }}" />
 
+    {% assign _parts = page.url | split: '/' %}
+    {% assign _num = _parts | last | plus: 0 %}
+    {% if _num < 10 %}{% assign _padded = '00' | append: _num %}{% elsif _num < 100 %}{% assign _padded = '0' | append: _num %}{% else %}{% assign _padded = _num | append: '' %}{% endif %}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Tayport Community Website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="Photo from the Tayport Community Website photo gallery." />
+    <meta property="og:url" content="https://tayport.org.uk{{ page.url }}" />
+    <meta property="og:image" content="https://tayport.org.uk/media/{{ _padded }}.jpg" />
+
     <style>
       * { box-sizing: border-box; }
 
