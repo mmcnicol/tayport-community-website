@@ -2,6 +2,7 @@
 layout: default
 title: Home - Tayport Community
 keywords: news, events, cafe
+photo_panel: true
 ---
 ## Recent News
 
@@ -84,5 +85,3 @@ The latest Sunday Services from across North Fife Presbytery can be found on [ww
 Over 435 Tayport FC matchday programmes from 1990 to the present have been digitised by the University of St Andrews Library and are available at [www.tayportfcarchive.com](https://www.tayportfcarchive.com/). Contact: tayportfcarchive@gmail.com
 
 ---
-
-![ ](https://tayport.org.uk/media/244_medium.jpg " ")

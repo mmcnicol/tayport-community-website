@@ -31,19 +31,27 @@
         color: #222;
       }
 
-      /* ── Compact header ── */
-      .photo-header {
+      /* ── Site header (matches default layout) ── */
+      .site-header {
         background: #fff;
         border-bottom: 1px solid #ccc;
-        padding: 8px 16px;
-        font-size: 0.9em;
       }
-      .photo-header a {
-        color: #333;
-        text-decoration: none;
+      .site-header-inner {
+        max-width: 1060px;
+        margin: 0 auto;
+        padding: 0 16px;
+        display: flex;
+        align-items: center;
+        min-height: 50px;
       }
-      .photo-header a:hover { text-decoration: underline; }
-      .photo-header .sep { color: #999; margin: 0 6px; }
+      .site-title {
+        font-size: 1.1em;
+        font-weight: bold;
+      }
+      .site-title a           { color: #222; text-decoration: none; }
+      .site-title a:hover     { text-decoration: underline; }
+      .site-title a:visited   { color: #222; }
+      .site-title .sep        { color: #999; margin: 0 6px; font-weight: normal; }
 
       /* ── Main content area ── */
       .photo-wrap {
@@ -115,11 +123,15 @@
   </head>
   <body>
 
-    <div class="photo-header">
-      <a href="/">Tayport Community Website</a>
-      <span class="sep">&rsaquo;</span>
-      <a href="/photo">Photos</a>
-    </div>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div class="site-title">
+          <a href="/">Tayport Community Website</a>
+          <span class="sep">&rsaquo;</span>
+          <a href="/photo">Photos</a>
+        </div>
+      </div>
+    </header>
 
     <div class="photo-wrap">
       {{ content }}
