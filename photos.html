@@ -6,137 +6,115 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Photos - Tayport Community</title>
 
-    <style type="text/css">
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Tayport Community Website" />
+    <meta property="og:title" content="Photos - Tayport Community" />
+    <meta property="og:description" content="Photo gallery for the Tayport Community Website." />
+    <meta property="og:url" content="https://tayport.org.uk/photos.html" />
+    <meta property="og:image" content="https://tayport.org.uk/media/thumbs/Tay_View_from_West_Lights_2006.JPG" />
 
-html {
-  line-height: 1.15; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
-}
+    <style>
+      *, *:after, *:before { box-sizing: border-box; }
 
-body {
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-}
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        margin: 0;
+        padding: 0;
+        background: #f0f0f0;
+        color: #222;
+      }
 
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
+      a         { color: #0066cc; }
+      a:visited { color: #551a8b; }
 
-a {
-  background-color: transparent; /* 1 */
-  -webkit-text-decoration-skip: objects; /* 2 */
-}
+      /* ── Site header ── */
+      .site-header { background: #fff; border-bottom: 1px solid #ccc; }
+      .site-header-inner {
+        max-width: 1060px;
+        margin: 0 auto;
+        padding: 0 16px;
+        display: flex;
+        align-items: center;
+        min-height: 50px;
+      }
+      .site-title { font-size: 1.1em; font-weight: bold; }
+      .site-title a           { color: #222; text-decoration: none; }
+      .site-title a:hover     { text-decoration: underline; }
+      .site-title a:visited   { color: #222; }
+      .site-title .sep        { color: #999; margin: 0 6px; font-weight: normal; }
 
-img {
-  border-style: none;
-}
+      /* ── Gallery area ── */
+      .gallery-wrap {
+        max-width: 1060px;
+        margin: 0 auto;
+        padding: 16px;
+      }
 
+      #container { width: 100%; }
 
+      .item {
+        width: 140px;
+        height: 140px;
+        margin: 5px;
+        overflow: hidden;
+        display: inline-block;
+        vertical-align: top;
+      }
+      .item a { display: block; width: 100%; height: 100%; }
+      .item img {
+        width: 140px;
+        height: 140px;
+        object-fit: cover;
+        display: block;
+        border: none;
+      }
 
-
-            *, *:after, *:before {
-                -webkit-box-sizing: border-box;
-                -moz-box-sizing: border-box;
-                box-sizing: border-box;
-        }
-        .item{
-                max-width: 100%;
-                /* background: black; */
-                color: white;
-                /* border-radius: 8px; */
-                height: 140px;
-                width: 140px;
-                margin:5px 5px;
-                padding: 10px;
-                font-weight: bolder;
-                font-size: 20px;
-                text-align: center;
-                line-height: 40px;
-                border: none;
-                /*-webkit-transition: .5s ease-in-out;*/
-        }
-        .container{
-                width: 40%;
-                margin: 0 auto;
-                outline: 2px dashed red;
-                padding: 10px;
-        }
-
-        .item:nth-child(2n){
-                height: 140px;
-        }
-        .item:nth-child(2n+1){
-                height: 140px
-        }
-        .item.special-margins{
-                margin-bottom: 10px;
-                margin-top: 0px;
-                margin-left: 10px;
-                margin-right: 10px;
-        }
+      /* ── Footer ── */
+      .site-footer {
+        text-align: center;
+        font-size: 0.82em;
+        color: #666;
+        padding: 16px;
+        margin-top: 8px;
+      }
+      .site-footer a { color: #666; }
     </style>
-
-	<link rel="stylesheet" href="assets/foundation.min.css" />
 
   </head>
   <body>
 
-    <div class="row">
-      <div class="large-12 columns">
-        <h2>Tayport Community Website</h2>
-        <br />
-        <h3>Photos</h3>
-      </div>
-    </div>
-
-    <br />
-    <br />
-
-
-
-
-<div class="row">
-    <div class="large-12 columns">
-        <div class="large-8 medium-8 columns">
-
-            <!-- <a href="javascript: history.go(-1)">back</a> -->
-
-            <br />
-
-            <div id="container"></div>
-
-            <script type="text/x-handlebars-template" id="waterfall-tpl">
-                {{#result}}
-                <span class="item">
-                <a href="media/{{image}}"><img src="media/thumbs/{{image}}" width="{{width}}" height="{{height}}" loading="lazy" /></a>
-                </span>
-                {{/result}}
-            </script>
-
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div class="site-title">
+          <a href="/">Tayport Community Website</a>
+          <span class="sep">&rsaquo;</span>
+          <a href="/photos.html">Photos</a>
         </div>
-
-
-
-    <br /><br /><br />
-    <div class="row">
-      <div class="large-12 columns">
-        Tayport Community Website<br /><br />Supported by Tayport Community Council [April 2003 – present]<br />
-        <br />
       </div>
+    </header>
+
+    <div class="gallery-wrap">
+      <div id="container"></div>
+
+      <script type="text/x-handlebars-template" id="waterfall-tpl">
+        {{#result}}
+        <span class="item">
+          <a href="media/{{image}}"><img src="media/thumbs/{{image}}" width="{{width}}" height="{{height}}" loading="lazy" /></a>
+        </span>
+        {{/result}}
+      </script>
     </div>
 
-            <script src="assets/jquery.min.js"></script>
-            <script src="assets/foundation.min.js"></script>
-            <script src="assets/handlebars.js"></script>
-            <script src="assets/waterfall.min.js"></script>
-            <script>
+    <div class="site-footer">
+      <p><a href="https://tayport.org.uk">Tayport Community Website</a> &nbsp;·&nbsp; Supported by Tayport Community Council [April 2003 – present]</p>
+    </div>
+
+    <script src="assets/jquery.min.js"></script>
+    <script src="assets/handlebars.js"></script>
+    <script src="assets/waterfall.min.js"></script>
+    <script>
 $(document).ready(function() {
-
-    $(document).foundation();
-
     $('#container').waterfall({
         itemCls: 'item',
         colWidth: 130,
@@ -145,23 +123,17 @@ $(document).ready(function() {
         checkImagesLoaded: false,
         callbacks: {
             renderData: function(data, dataType) {
-                var tpl,
-                        template,
-                        resultNum = data.total;
-
-                if (resultNum < 20) {
+                var tpl, template;
+                if (data.total < 20) {
                     $('#container').waterfall('pause', function() {
-                        $('#waterfall-message').html('<p style="color:#666;">no more data...</p>')
-                        //alert('no more data');
+                        $('#waterfall-message').html('<p style="color:#666;">no more data...</p>');
                     });
                 }
-
-                if (dataType === 'json' || dataType === 'jsonp') { // json or jsonp format
+                if (dataType === 'json' || dataType === 'jsonp') {
                     tpl = $('#waterfall-tpl').html();
                     template = Handlebars.compile(tpl);
-
                     return template(data);
-                } else { // html format
+                } else {
                     return data;
                 }
             }
@@ -171,9 +143,7 @@ $(document).ready(function() {
         }
     });
 });
-            </script>
-
-
+    </script>
 
   </body>
 </html>
