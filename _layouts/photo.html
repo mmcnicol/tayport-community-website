@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+
+    <meta name="description" content="A community website dedicated to Tayport which is located on the east coast of Scotland in Fife." />
+    <meta name="keywords" content="tayport, fife, scotland, community, {{ page.keywords }}" />
+
+    <style>
+      * { box-sizing: border-box; }
+
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        margin: 0;
+        padding: 0;
+        background: #f0f0f0;
+        color: #222;
+      }
+
+      /* ── Compact header ── */
+      .photo-header {
+        background: #fff;
+        border-bottom: 1px solid #ccc;
+        padding: 8px 16px;
+        font-size: 0.9em;
+      }
+      .photo-header a {
+        color: #333;
+        text-decoration: none;
+      }
+      .photo-header a:hover { text-decoration: underline; }
+      .photo-header .sep { color: #999; margin: 0 6px; }
+
+      /* ── Main content area ── */
+      .photo-wrap {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 16px;
+      }
+
+      /* Hide the "## Photo Gallery" heading — redundant with the breadcrumb */
+      .photo-wrap h2 { display: none; }
+
+      /* ── Navigation links (prev / next) ── */
+      .photo-wrap p:first-of-type {
+        margin: 0 0 12px 0;
+        font-size: 1.1em;
+      }
+      .photo-wrap p:first-of-type a {
+        display: inline-block;
+        padding: 4px 12px;
+        background: #fff;
+        border: 1px solid #bbb;
+        border-radius: 4px;
+        color: #333;
+        text-decoration: none;
+        margin-right: 6px;
+      }
+      .photo-wrap p:first-of-type a:hover { background: #e8e8e8; }
+
+      /* ── Photo image ── */
+      .photo-wrap img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 0 0 12px 0;
+        background: #fff;
+      }
+
+      /* ── Description / metadata ── */
+      .photo-wrap p { line-height: 1.5; }
+
+      /* ── Comments ── */
+      .photo-wrap h3 {
+        margin-top: 24px;
+        font-size: 1em;
+        color: #555;
+        border-top: 1px solid #ccc;
+        padding-top: 12px;
+      }
+      .photo-wrap blockquote {
+        margin: 4px 0 16px 0;
+        padding: 6px 12px;
+        border-left: 3px solid #ccc;
+        color: #444;
+        background: #fafafa;
+      }
+
+      /* ── Footer ── */
+      .photo-footer {
+        text-align: center;
+        padding: 16px;
+        font-size: 0.8em;
+        color: #888;
+        border-top: 1px solid #ccc;
+        margin-top: 24px;
+        background: #fff;
+      }
+      .photo-footer a { color: #666; }
+    </style>
+  </head>
+  <body>
+
+    <div class="photo-header">
+      <a href="/">Tayport Community Website</a>
+      <span class="sep">&rsaquo;</span>
+      <a href="/photo">Photos</a>
+    </div>
+
+    <div class="photo-wrap">
+      {{ content }}
+    </div>
+
+    <div class="photo-footer">
+      <a href="https://tayport.org.uk">Tayport Community Website</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/mmcnicol/tayport-community-website/edit/gh-pages/{{ page.path }}">edit this page</a>
+    </div>
+
+    <script>
+      // Keyboard navigation: left arrow = prev, right arrow = next
+      (function () {
+        var links = document.querySelectorAll('.photo-wrap p a');
+        var prev = null, next = null;
+        links.forEach(function (a) {
+          if (a.textContent.trim() === 'prev') prev = a.href;
+          if (a.textContent.trim() === 'next') next = a.href;
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.altKey || e.ctrlKey || e.metaKey) return;
+          if (e.key === 'ArrowLeft'  && prev) location.href = prev;
+          if (e.key === 'ArrowRight' && next) location.href = next;
+        });
+      })();
+    </script>
+
+  </body>
+</html>
