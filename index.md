@@ -7,6 +7,9 @@ photo_panel: true
 ## Recent News
 
 ---
+[TCC Minutes of 7th September 2026](https://tayport.org.uk/pdfs/2026-09-07-TCC-Minutes.pdf)
+
+---
 [TCC Minutes of 6th July 2026](https://tayport.org.uk/pdfs/2026-07-06-TCC-Minutes.pdf)
 
 ---
