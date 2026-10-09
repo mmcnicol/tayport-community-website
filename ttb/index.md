@@ -9,4 +9,6 @@ The Tayport Local Place Plan project is working with the community to shape the 
 
 More information coming soon.
 
+![picture of a person](https://tayport.org.uk/ttb/Untitled%20design.png)
+
 This is a test edit.
