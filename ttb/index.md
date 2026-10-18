@@ -10,7 +10,7 @@ keywords: local place plan, place plan, tayport talks back, ttb, community counc
 
 Tayport Talks Back is a community project to help us shape the future of Tayport by bringing people together to create a Local Place Plan.
 
-The Plan will look at what Tayport is like now and what we want it to be like in the future. Download our one-page explainer [here](https://tayport.org.uk/ttb/TalksBackExplainerv1.018Oct2026.pdf) 
+The Plan will look at what Tayport is like now and what we want it to be like in the future. Download our one-page explainer [here](https://tayport.org.uk/ttb/TayportTalksBackExplainerv1.018Oct2026.pdf) 
 
 The Plan is being developed by Tayport Community Council who have formed a Steering Group to develop the plan. They will ask everyone in the community to give their views and ideas. 
 
